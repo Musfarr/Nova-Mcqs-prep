@@ -1,0 +1,5829 @@
+{
+  "module1": [
+    {
+      "id": 1,
+      "question": "What is the primary safety measure a technician should take when operating power tools in a cluttered collision repair workspace?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Isolate the work area and verify that all tool guards are in place."
+        },
+        {
+          "label": "B",
+          "text": "Increase the tool speed to complete the task faster."
+        },
+        {
+          "label": "C",
+          "text": "Rely solely on personal protective equipment."
+        },
+        {
+          "label": "D",
+          "text": "Continue working while others clear the area."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 2,
+      "question": "How does the proper use of personal protective equipment (PPE) during welding operations in auto body repair minimize risks?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By preventing electrical shocks entirely."
+        },
+        {
+          "label": "B",
+          "text": "By minimizing exposure to harmful UV radiation and welding fumes."
+        },
+        {
+          "label": "C",
+          "text": "By completely eliminating the risk of burns."
+        },
+        {
+          "label": "D",
+          "text": "By making additional safety measures unnecessary."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which practice is most effective for reducing trip hazards in a busy repair shop environment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Routinely clearing walkways and marking uneven surfaces."
+        },
+        {
+          "label": "B",
+          "text": "Placing tools on the floor near workstations."
+        },
+        {
+          "label": "C",
+          "text": "Ignoring minor spills until they become major issues."
+        },
+        {
+          "label": "D",
+          "text": "Relying on natural lighting to spot hazards."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Before using diagnostic equipment in an area with hazardous chemicals, what is the most critical safety step?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verifying the calibration of the diagnostic tools."
+        },
+        {
+          "label": "B",
+          "text": "Reviewing material safety data sheets and ensuring proper ventilation."
+        },
+        {
+          "label": "C",
+          "text": "Checking tire pressures of nearby vehicles."
+        },
+        {
+          "label": "D",
+          "text": "Cleaning the diagnostic equipment thoroughly."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 5,
+      "question": "What is the best practice for maintaining hand and power tools used in auto body repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Regular cleaning and inspection for wear or damage."
+        },
+        {
+          "label": "B",
+          "text": "Using them continuously until they fail."
+        },
+        {
+          "label": "C",
+          "text": "Cleaning them only after a tool has malfunctioned."
+        },
+        {
+          "label": "D",
+          "text": "Replacing them on a fixed annual schedule regardless of condition."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 6,
+      "question": "How can a technician ensure accurate measurements when using unibody repair and measuring equipment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By calibrating the measuring instruments before each repair job."
+        },
+        {
+          "label": "B",
+          "text": "By relying on estimations based on previous repairs."
+        },
+        {
+          "label": "C",
+          "text": "By using outdated calibration data stored on the equipment."
+        },
+        {
+          "label": "D",
+          "text": "By adjusting measurements based on visual estimates alone."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 7,
+      "question": "When employing lifting equipment during collision repairs, which factor is most critical for safe operation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The color of the lifting equipment."
+        },
+        {
+          "label": "B",
+          "text": "Verifying the load capacity and securely positioning the vehicle."
+        },
+        {
+          "label": "C",
+          "text": "The brand name of the lifting equipment."
+        },
+        {
+          "label": "D",
+          "text": "The speed at which the vehicle is lifted."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 8,
+      "question": "Which routine maintenance step is essential for ensuring the reliability of diagnostic equipment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Upgrading the software monthly."
+        },
+        {
+          "label": "B",
+          "text": "Regularly checking and updating calibration settings."
+        },
+        {
+          "label": "C",
+          "text": "Using the equipment for non-diagnostic tasks to test durability."
+        },
+        {
+          "label": "D",
+          "text": "Leaving the equipment powered on continuously."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 9,
+      "question": "What is the most effective method to prevent contamination of repair materials when maintaining refinishing tools and equipment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Washing and drying equipment thoroughly after each use."
+        },
+        {
+          "label": "B",
+          "text": "Using the same equipment for multiple materials without cleaning."
+        },
+        {
+          "label": "C",
+          "text": "Storing tools in a humid environment to maintain flexibility."
+        },
+        {
+          "label": "D",
+          "text": "Delaying cleaning until equipment malfunctions occur."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which procedure is most critical when preparing welding equipment for auto body panel repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ensuring the correct gas mixture and verifying the integrity of the electrodes. B. Selecting the highest available current setting."
+        },
+        {
+          "label": "C",
+          "text": "Replacing the welding helmet immediately before use."
+        },
+        {
+          "label": "D",
+          "text": "Using outdated, uncalibrated equipment to test durability."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 11,
+      "question": "How should regular maintenance on welding equipment be performed to avoid unexpected failures during repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conducting daily inspections and cleaning critical components."
+        },
+        {
+          "label": "B",
+          "text": "Leaving the equipment unattended between jobs."
+        },
+        {
+          "label": "C",
+          "text": "Relying solely on visual checks once a year."
+        },
+        {
+          "label": "D",
+          "text": "Operating the equipment continuously to detect faults."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 12,
+      "question": "What is the primary impact of improper maintenance on welding equipment in auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inconsistent weld quality and an increased risk of equipment malfunction."
+        },
+        {
+          "label": "B",
+          "text": "A change in the color of the weld without other effects."
+        },
+        {
+          "label": "C",
+          "text": "No significant impact on repair quality."
+        },
+        {
+          "label": "D",
+          "text": "Only a minor reduction in welding speed."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 13,
+      "question": "Which documentation is essential when preparing an accurate repair plan for a complex collision repair job?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Detailed estimates, repair orders, and damage diagrams."
+        },
+        {
+          "label": "B",
+          "text": "A rough sketch on a napkin."
+        },
+        {
+          "label": "C",
+          "text": "Verbal instructions provided on-site."
+        },
+        {
+          "label": "D",
+          "text": "Previous repair invoices from unrelated jobs."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 14,
+      "question": "What practice enhances the efficiency of organizing parts, materials, and the work area in a busy repair shop?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Waiting until the end of the day to organize the workspace."
+        },
+        {
+          "label": "B",
+          "text": "Randomly storing parts based on immediate availability."
+        },
+        {
+          "label": "C",
+          "text": "Using generic bins for all materials regardless of type."
+        },
+        {
+          "label": "D",
+          "text": "Implementing a standardized labeling and storage system."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 15,
+      "question": "How does maintaining comprehensive documentation benefit technicians during auto body repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It benefits only management and not the repair process."
+        },
+        {
+          "label": "B",
+          "text": "It creates extra paperwork with no practical benefit."
+        },
+        {
+          "label": "C",
+          "text": "It delays the repair process unnecessarily."
+        },
+        {
+          "label": "D",
+          "text": "It provides a clear reference for parts, procedures, and modifications."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 16,
+      "question": "When preparing estimates and supplements, which detail is most critical to ensure accuracy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Detailed labor hours and specific parts requirements based on damage assessment. B. The cost of unrelated services."
+        },
+        {
+          "label": "C",
+          "text": "A generic estimate applicable to all repair jobs."
+        },
+        {
+          "label": "D",
+          "text": "Personal opinions about the quality of previous repairs."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 17,
+      "question": "What communication strategy is most effective when instructing a new apprentice on complex repair procedures?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using technical jargon without offering clarification."
+        },
+        {
+          "label": "B",
+          "text": "Giving only written instructions without any verbal interaction."
+        },
+        {
+          "label": "C",
+          "text": "Providing clear, step-by-step explanations and encouraging questions."
+        },
+        {
+          "label": "D",
+          "text": "Allowing the apprentice to figure out the procedures independently."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 18,
+      "question": "How can experienced technicians use mentoring techniques to improve overall team performance in a collision repair shop?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By actively demonstrating best practices and offering constructive feedback."
+        },
+        {
+          "label": "B",
+          "text": "By focusing solely on their own work without guidance."
+        },
+        {
+          "label": "C",
+          "text": "By minimizing interactions with less experienced colleagues."
+        },
+        {
+          "label": "D",
+          "text": "By delegating all tasks without any support."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 19,
+      "question": "What is the most effective procedure to prevent damage when removing a door trim panel for repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using specialized removal tools to gently disengage fasteners and clips."
+        },
+        {
+          "label": "B",
+          "text": "Forcing the panel off with a crowbar."
+        },
+        {
+          "label": "C",
+          "text": "Ignoring manufacturer guidelines during removal."
+        },
+        {
+          "label": "D",
+          "text": "Pulling the panel directly from the center without support."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 20,
+      "question": "When reinstalling hardware components after collision repairs, what is the critical consideration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aligning components to factory specifications and ensuring secure attachment."
+        },
+        {
+          "label": "B",
+          "text": "Replacing all parts regardless of their condition."
+        },
+        {
+          "label": "C",
+          "text": "Installing different hardware than originally used."
+        },
+        {
+          "label": "D",
+          "text": "Relying solely on adhesive without mechanical fastening."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 21,
+      "question": "How does proper documentation assist in the removal and installation of trim during a repair job?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It provides a reference for correct procedures and ensures consistency with manufacturer recommendations."
+        },
+        {
+          "label": "B",
+          "text": "It becomes unnecessary once the repair process has started."
+        },
+        {
+          "label": "C",
+          "text": "It is used only for post-repair billing purposes."
+        },
+        {
+          "label": "D",
+          "text": "It serves merely as a backup in case parts are lost."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 22,
+      "question": "Which step is vital for preventing damage when removing interior trim components?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Skipping the removal of fasteners altogether."
+        },
+        {
+          "label": "B",
+          "text": "Hammering the trim until it detaches."
+        },
+        {
+          "label": "C",
+          "text": "Carefully releasing clips and fasteners without applying excessive force."
+        },
+        {
+          "label": "D",
+          "text": "Removing trim without referring to the repair manual."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 23,
+      "question": "What is the most critical aspect of a final operational check after completing collision repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ignoring minor operational anomalies."
+        },
+        {
+          "label": "B",
+          "text": "Checking only the visual appearance of the repair."
+        },
+        {
+          "label": "C",
+          "text": "Verifying that all systems function as intended without interference."
+        },
+        {
+          "label": "D",
+          "text": "Relying solely on customer feedback for validation."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 24,
+      "question": "How does a thorough final quality control inspection contribute to overall repair success?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By identifying discrepancies or defects that require rework before the vehicle is returned. B. By only evaluating the uniformity of the paint color."
+        },
+        {
+          "label": "C",
+          "text": "By unnecessarily delaying the repair process."
+        },
+        {
+          "label": "D",
+          "text": "By focusing solely on structural components while ignoring others."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 25,
+      "question": "Which procedure is essential during the final inspection to ensure that all safety standards are met?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reviewing only the customer's previous complaints."
+        },
+        {
+          "label": "B",
+          "text": "Inspecting only the exterior paint finish."
+        },
+        {
+          "label": "C",
+          "text": "Focusing primarily on completing the inspection quickly."
+        },
+        {
+          "label": "D",
+          "text": "Checking that all replaced and repaired components are securely fastened and correctly aligned."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 26,
+      "question": "How should a technician document the outcomes of the final inspection to support future service records?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By noting only the repair start and finish times."
+        },
+        {
+          "label": "B",
+          "text": "By making only a brief verbal summary of the findings."
+        },
+        {
+          "label": "C",
+          "text": "By filing a generic report without specific details."
+        },
+        {
+          "label": "D",
+          "text": "By recording detailed notes, measurements, and any deviations from standard repair procedures."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 27,
+      "question": "What is the most effective method for applying corrosion inhibitors to prevent further damage on a repaired panel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thorough surface preparation followed by an even application of the inhibitor. B. Spraying the inhibitor without first cleaning the surface."
+        },
+        {
+          "label": "C",
+          "text": "Applying a thick, uneven layer without surface preparation."
+        },
+        {
+          "label": "D",
+          "text": "Relying solely on the metal's inherent corrosion resistance."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 28,
+      "question": "Which step is key to ensuring that sound deadening materials are applied correctly during collision repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cleaning the surface and using adhesive primers before material application. B. Applying sound deadening materials directly onto a dirty surface."
+        },
+        {
+          "label": "C",
+          "text": "Skipping surface cleaning to reduce repair time."
+        },
+        {
+          "label": "D",
+          "text": "Using excessive material without proper measurement."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 29,
+      "question": "How does the application of seam sealers contribute to the durability of a repaired vehicle body?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By creating a flexible barrier that prevents moisture penetration and rust formation."
+        },
+        {
+          "label": "B",
+          "text": "By solely enhancing the vehicle's aesthetic appearance."
+        },
+        {
+          "label": "C",
+          "text": "By hardening the surface to reduce noise without affecting moisture."
+        },
+        {
+          "label": "D",
+          "text": "By improving paint adhesion only."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 30,
+      "question": "In preparing a vehicle for final delivery, why is it important to apply undercoats along with corrosion inhibitors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They work together to provide long-term protection against environmental factors."
+        },
+        {
+          "label": "B",
+          "text": "They primarily speed up the drying process of the finish."
+        },
+        {
+          "label": "C",
+          "text": "They are applied solely for improved visual appeal."
+        },
+        {
+          "label": "D",
+          "text": "They eliminate the need for a final inspection before delivery."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 31,
+      "question": "When preparing for the repair of structural components, what method best ensures the full extent of collision damage is accurately identified?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Relying solely on an external visual assessment."
+        },
+        {
+          "label": "B",
+          "text": "Using computerized 3D laser scanning combined with detailed visual inspection C. Comparing the damaged area only with outdated repair manuals"
+        },
+        {
+          "label": "D",
+          "text": "Asking the customer for a subjective description of the damage"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 32,
+      "question": "What procedure should be followed to safely remove interior components that obstruct access to damaged structural areas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disconnect electrical connections, remove trim carefully, and unbolt obstructive panels B. Pry the components off using a crowbar"
+        },
+        {
+          "label": "C",
+          "text": "Ignore removal and work around the obstructions"
+        },
+        {
+          "label": "D",
+          "text": "Remove the components without disconnecting any attached wiring"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 33,
+      "question": "Which factor is most critical during vehicle setup to ensure accurate alignment for structural repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Relying on the vehicle's original factory alignment without checking"
+        },
+        {
+          "label": "B",
+          "text": "Estimating positions based solely on technician experience"
+        },
+        {
+          "label": "C",
+          "text": "Utilizing precise jigs and verifying reference points on undamaged areas"
+        },
+        {
+          "label": "D",
+          "text": "Positioning based only on tire placement"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 34,
+      "question": "How can hidden damage within the frame be reliably identified prior to beginning repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using a standard hammer tap test on visible areas only"
+        },
+        {
+          "label": "B",
+          "text": "Relying exclusively on a cursory visual check"
+        },
+        {
+          "label": "C",
+          "text": "Employing non-destructive testing methods such as ultrasonic inspection"
+        },
+        {
+          "label": "D",
+          "text": "Depending solely on historical damage reports"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 35,
+      "question": "Before removing a damaged structural component, what precaution is essential to prevent further compromise of the vehicle's integrity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ensuring the removal process preserves the overall structural integrity"
+        },
+        {
+          "label": "B",
+          "text": "Removing the component as quickly as possible"
+        },
+        {
+          "label": "C",
+          "text": "Using brute force to detach the component"
+        },
+        {
+          "label": "D",
+          "text": "Overlooking the impact on adjacent parts during removal"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Why is the use of a proper leveling system crucial during vehicle setup for structural repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It ensures the vehicle is aligned to its original factory geometry during the repair process"
+        },
+        {
+          "label": "B",
+          "text": "It speeds up the repair regardless of alignment accuracy"
+        },
+        {
+          "label": "C",
+          "text": "It is only necessary for high-end vehicles"
+        },
+        {
+          "label": "D",
+          "text": "It minimizes the need for subsequent component replacement"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Which method most reliably determines the extent of damage to a vehicle's frame following a collision?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Comparing digital measurements with manufacturer specifications"
+        },
+        {
+          "label": "B",
+          "text": "Using a tape measure and subjective estimation"
+        },
+        {
+          "label": "C",
+          "text": "Estimating based on similar previous repairs"
+        },
+        {
+          "label": "D",
+          "text": "Relying solely on technician intuition"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 38,
+      "question": "What is the primary advantage of using a computerized diagnostic system when preparing for structural component repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It provides precise data on deformation and misalignment for targeted repairs"
+        },
+        {
+          "label": "B",
+          "text": "It completely eliminates the need for manual inspections"
+        },
+        {
+          "label": "C",
+          "text": "It automates the entire repair process"
+        },
+        {
+          "label": "D",
+          "text": "It replaces the necessity for skilled technicians"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 39,
+      "question": "How should a technician remove obstructive interior components to access a damaged frame area most safely?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By forcefully pulling the components without precautions"
+        },
+        {
+          "label": "B",
+          "text": "By disconnecting all related electrical and mechanical connections before removal"
+        },
+        {
+          "label": "C",
+          "text": "By leaving them in place and working around them"
+        },
+        {
+          "label": "D",
+          "text": "By cutting the components without following manufacturer guidelines"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which procedure ensures that vehicle setup remains accurate during structural repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using improvised jigs without manufacturer specifications"
+        },
+        {
+          "label": "B",
+          "text": "Setting up only once at the beginning of the repair"
+        },
+        {
+          "label": "C",
+          "text": "Relying solely on initial measurements without re-verification"
+        },
+        {
+          "label": "D",
+          "text": "Regularly checking alignment with calibrated tools and reference fixtures"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 41,
+      "question": "What tool is most effective for detecting micro-deformations in the structural frame before repairs begin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A digital measuring system integrated with 3D scanning capabilities"
+        },
+        {
+          "label": "B",
+          "text": "A conventional tape measure"
+        },
+        {
+          "label": "C",
+          "text": "A simple visual inspection"
+        },
+        {
+          "label": "D",
+          "text": "A handheld magnetic sensor"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 42,
+      "question": "During the preparation phase, what role does vehicle setup play in maintaining structural integrity post-repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It positions the vehicle correctly to ensure accurate alignment and restoration of original geometry"
+        },
+        {
+          "label": "B",
+          "text": "It merely speeds up the repair process"
+        },
+        {
+          "label": "C",
+          "text": "It is only significant for cosmetic reasons"
+        },
+        {
+          "label": "D",
+          "text": "It guarantees that non-factory parts are used appropriately"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 43,
+      "question": "What is the significance of removing obstructive components prior to commencing structural repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It allows unobstructed access to damaged areas, reducing the risk of further damage B. It is only for improving the visual appeal of the workspace"
+        },
+        {
+          "label": "C",
+          "text": "It minimizes repair time by skipping unnecessary steps D. It is solely done for post-repair documentation purposes"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 44,
+      "question": "Which approach is recommended when determining the need for component removal if damage extends into adjacent structures?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conducting a comprehensive structural assessment to identify all affected areas"
+        },
+        {
+          "label": "B",
+          "text": "Removing components based only on visible damage"
+        },
+        {
+          "label": "C",
+          "text": "Leaving components in place if they appear undamaged"
+        },
+        {
+          "label": "D",
+          "text": "Following outdated repair procedures regardless of the current damage"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 45,
+      "question": "How do reference markers used during vehicle setup contribute to the success of structural repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They provide precise measurement points to ensure the repaired structure meets factory specifications"
+        },
+        {
+          "label": "B",
+          "text": "They serve only as temporary guides"
+        },
+        {
+          "label": "C",
+          "text": "They replace the need for modern diagnostic tools D. They are used mainly for aesthetic alignment only"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 46,
+      "question": "What precaution is essential when removing structural components to avoid accidental damage to undamaged areas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using manufacturer-recommended tools and procedures to carefully detach only necessary parts"
+        },
+        {
+          "label": "B",
+          "text": "Applying excessive force to expedite removal"
+        },
+        {
+          "label": "C",
+          "text": "Removing extra components that appear even slightly damaged"
+        },
+        {
+          "label": "D",
+          "text": "Skipping safety checks to save time"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 47,
+      "question": "How can a technician ensure that the setup of a collision-damaged vehicle remains stable throughout a lengthy repair process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By assuming the initial setup will remain unchanged"
+        },
+        {
+          "label": "B",
+          "text": "By regularly re-checking alignment and support structures during the repair"
+        },
+        {
+          "label": "C",
+          "text": "By repositioning only at the end of the repair"
+        },
+        {
+          "label": "D",
+          "text": "By using temporary supports without periodic verification"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 48,
+      "question": "Why is verifying the extent of structural damage before repair work begins so critical?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It only impacts the cost estimation, not the repair quality"
+        },
+        {
+          "label": "B",
+          "text": "It is done solely for record-keeping purposes"
+        },
+        {
+          "label": "C",
+          "text": "It is optional if the damage appears minor"
+        },
+        {
+          "label": "D",
+          "text": "It enables accurate planning of repair procedures and ensures overall safety"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 49,
+      "question": "In cases of high-impact collision damage, what is most critical when setting up the vehicle for structural repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ignoring secondary damage in the setup process"
+        },
+        {
+          "label": "B",
+          "text": "Relying on a general visual estimation."
+        },
+        {
+          "label": "C",
+          "text": "Using improvised jigs that do not adhere to specifications"
+        },
+        {
+          "label": "D",
+          "text": "Clearly marking and measuring all alignment reference points"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 50,
+      "question": "What is the recommended procedure for verifying the integrity of removed structural components before repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conducting a thorough inspection for hidden damage and corrosion"
+        },
+        {
+          "label": "B",
+          "text": "Immediately replacing the component without any inspection"
+        },
+        {
+          "label": "C",
+          "text": "Cleaning and reinstalling the component without detailed analysis"
+        },
+        {
+          "label": "D",
+          "text": "Relying solely on a visual check without measurements."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 51,
+      "question": "What is the most critical factor when repairing a damaged structural component to ensure the vehicle's integrity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Restoring the component to its original factory dimensions and material strength"
+        },
+        {
+          "label": "B",
+          "text": "Using a makeshift metal patch regardless of fit"
+        },
+        {
+          "label": "C",
+          "text": "Relying on cosmetic fixes rather than structural repair"
+        },
+        {
+          "label": "D",
+          "text": "Repairing only the visibly damaged areas"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Which technique is preferred when removing a severely damaged structural member to minimize additional distortion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carefully cutting and unbolting the component using manufacturer-recommended procedures"
+        },
+        {
+          "label": "B",
+          "text": "Hammering the component out of position"
+        },
+        {
+          "label": "C",
+          "text": "Using excessive force to pry it off"
+        },
+        {
+          "label": "D",
+          "text": "Removing adjacent components unnecessarily for more space"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 53,
+      "question": "How should a technician determine the best method for repairing a cracked frame rail?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By evaluating the crack's location and extent to select a method that restores original strength"
+        },
+        {
+          "label": "B",
+          "text": "By applying epoxy quickly without a detailed assessment"
+        },
+        {
+          "label": "C",
+          "text": "By reinforcing the crack with extra metal without proper measurement"
+        },
+        {
+          "label": "D",
+          "text": "By ignoring the crack if it appears minor"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 54,
+      "question": "What is the recommended method for aligning a structural component during reinstallation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using precision jigs and laser alignment tools for accurate positioning"
+        },
+        {
+          "label": "B",
+          "text": "Aligning by eye with no reference points"
+        },
+        {
+          "label": "C",
+          "text": "Using temporary clamps without verifying measurements"
+        },
+        {
+          "label": "D",
+          "text": "Relying solely on technician memory of the original setup"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 55,
+      "question": "Which process is essential to ensure that a repaired frame component maintains its structural integrity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Performing a post-repair stress test and comparing measurements with factory specifications"
+        },
+        {
+          "label": "B",
+          "text": "Conducting only a visual inspection"
+        },
+        {
+          "label": "C",
+          "text": "Relying solely on repair experience without detailed measurements"
+        },
+        {
+          "label": "D",
+          "text": "Skipping tests if the repair appears satisfactory"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 56,
+      "question": "What precaution should be taken when installing a new structural component after repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verifying that all mounting points and fasteners meet manufacturer specifications"
+        },
+        {
+          "label": "B",
+          "text": "Installing the component without checking its fit"
+        },
+        {
+          "label": "C",
+          "text": "Using non-original parts without any adjustments"
+        },
+        {
+          "label": "D",
+          "text": "Skipping alignment verification to speed up installation"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 57,
+      "question": "How can minor distortions in a structural component be effectively addressed during repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By using cosmetic fillers to hide the distortion"
+        },
+        {
+          "label": "B",
+          "text": "By ignoring the distortions as they may self-correct"
+        },
+        {
+          "label": "C",
+          "text": "By cutting out the entire section instead of repairing"
+        },
+        {
+          "label": "D",
+          "text": "By employing specialized metal stretching and bending techniques to restore original geometry"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 58,
+      "question": "What role does proper sequencing play in the removal and installation of structural components?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It only affects the speed of the repair process"
+        },
+        {
+          "label": "B",
+          "text": "It has little impact on repair quality"
+        },
+        {
+          "label": "C",
+          "text": "It minimizes further damage and ensures components are handled in the optimal order"
+        },
+        {
+          "label": "D",
+          "text": "It is determined solely by the technician's personal preference"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Why is the use of high-strength fasteners essential during the installation of repaired structural components?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are used only to expedite the repair process"
+        },
+        {
+          "label": "B",
+          "text": "They provide long-term durability and secure attachment under stress"
+        },
+        {
+          "label": "C",
+          "text": "They serve a purely cosmetic function"
+        },
+        {
+          "label": "D",
+          "text": "They have no significant impact on performance"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 60,
+      "question": "Which method best integrates repaired and original components during structural reassembly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bolting components together without further adjustments"
+        },
+        {
+          "label": "B",
+          "text": "Combining precision measurement, welding, and bolting techniques for seamless. integration"
+        },
+        {
+          "label": "C",
+          "text": "Using adhesives exclusively to bond the components"
+        },
+        {
+          "label": "D",
+          "text": "Relying on manual adjustments without precise measurements"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 61,
+      "question": "During the removal of a damaged frame section, why is it essential to support adjacent structural elements?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To prevent accidental collapse or misalignment of the overall vehicle structure"
+        },
+        {
+          "label": "B",
+          "text": "Because supporting elements is an optional step"
+        },
+        {
+          "label": "C",
+          "text": "To accelerate the removal process without added precautions."
+        },
+        {
+          "label": "D",
+          "text": "To allow for later cosmetic adjustments"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 62,
+      "question": "What is the primary benefit of using computer-aided design (CAD) systems in planning structural repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They allow precise simulation and planning of repair methods before physical alteration B. They replace the need for physical inspections entirely"
+        },
+        {
+          "label": "C",
+          "text": "They are only used for generating repair invoices"
+        },
+        {
+          "label": "D",
+          "text": "They serve only as post-repair documentation tools"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 63,
+      "question": "Which factor is most crucial when selecting replacement parts for a damaged structural component?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ensuring the parts meet or exceed original equipment manufacturer (OEM) specifications"
+        },
+        {
+          "label": "B",
+          "text": "Choosing parts based solely on lower cost"
+        },
+        {
+          "label": "C",
+          "text": "Using generic parts without specification matching"
+        },
+        {
+          "label": "D",
+          "text": "Selecting parts that are slightly oversized for ease of installation"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 64,
+      "question": "How can welding techniques be optimized during structural component repair to ensure strength and durability?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By employing proper heat control and using filler materials that match the original composition"
+        },
+        {
+          "label": "B",
+          "text": "By using high heat settings regardless of material type"
+        },
+        {
+          "label": "C",
+          "text": "By welding quickly without preheating"
+        },
+        {
+          "label": "D",
+          "text": "By using any available filler material without compatibility testing"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 65,
+      "question": "What is the recommended procedure to ensure accurate alignment during the installation of a repaired frame section?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using calibrated alignment tools and verifying measurements against manufacturer specifications"
+        },
+        {
+          "label": "B",
+          "text": "Relying on visual estimation and manual adjustments"
+        },
+        {
+          "label": "C",
+          "text": "Installing first and aligning later"
+        },
+        {
+          "label": "D",
+          "text": "Using uncalibrated tools for speed"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 66,
+      "question": "How does integrating advanced diagnostic tools improve the repair process of structural components?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are useful only during post-repair inspection"
+        },
+        {
+          "label": "B",
+          "text": "They eliminate the need for any manual assessments"
+        },
+        {
+          "label": "C",
+          "text": "They provide detailed insights into internal damage, enabling targeted repair strategies D. They serve mainly for inventory management purposes"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 67,
+      "question": "If a repaired structural component does not align with the vehicle's original specifications during installation, what should be done?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reassess and adjust the component using precise measurement tools until proper alignment is achieved"
+        },
+        {
+          "label": "B",
+          "text": "Ignore the misalignment if it appears minor"
+        },
+        {
+          "label": "C",
+          "text": "Force the component into place regardless of alignment"
+        },
+        {
+          "label": "D",
+          "text": "Replace the component without further verification"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 68,
+      "question": "Which safety measure is paramount when repairing severely compromised structural components?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ensuring all supports and restraints are properly in place to protect both the technician and the vehicle"
+        },
+        {
+          "label": "B",
+          "text": "Relying solely on speed to complete the repair"
+        },
+        {
+          "label": "C",
+          "text": "Skipping additional supports if the damage seems manageable"
+        },
+        {
+          "label": "D",
+          "text": "Using only personal protective equipment without structural restraints"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 69,
+      "question": "What strategy best integrates new welds into a repaired structural component without compromising its integrity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using pre-heating and controlled cooling techniques for a strong, uniform weld"
+        },
+        {
+          "label": "B",
+          "text": "Applying welds without pre-heating to save time"
+        },
+        {
+          "label": "C",
+          "text": "Employing a random welding pattern for convenience"
+        },
+        {
+          "label": "D",
+          "text": "Avoiding welding entirely in favor of adhesives"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 70,
+      "question": "During the installation of repaired structural components, which method ensures long-term stability of the assembly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Combining precise measurements, appropriate fasteners, and secure welding techniques B. Using only bolts without verifying alignment"
+        },
+        {
+          "label": "C",
+          "text": "Relying solely on adhesives for fixation"
+        },
+        {
+          "label": "D",
+          "text": "Employing temporary supports that are removed immediately after installation"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 71,
+      "question": "What is the key consideration when removing structural glass from a collision- damaged vehicle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ignoring safety protocols during removal"
+        },
+        {
+          "label": "B",
+          "text": "Removing the glass as quickly as possible without support"
+        },
+        {
+          "label": "C",
+          "text": "Using excessive force to detach the glass"
+        },
+        {
+          "label": "D",
+          "text": "Ensuring the glass is properly supported to prevent breakage and additional damage"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 72,
+      "question": "Which method is most effective for removing laminated glass without compromising the vehicle's integrity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Applying high pressure to force the layers apart"
+        },
+        {
+          "label": "B",
+          "text": "Carefully separating the laminated layers using specialized tools and techniques C. Using chemical solvents to dissolve the adhesive entirely"
+        },
+        {
+          "label": "D",
+          "text": "Breaking the glass intentionally to remove it in pieces"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 73,
+      "question": "How should the vehicle frame be prepared before installing new structural glass?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By cleaning and verifying the mounting surfaces to ensure proper adhesion and fit"
+        },
+        {
+          "label": "B",
+          "text": "By leaving the surfaces uncleaned to maintain original conditions"
+        },
+        {
+          "label": "C",
+          "text": "By applying adhesive directly without surface preparation"
+        },
+        {
+          "label": "D",
+          "text": "By relying solely on previous repair markings without cleaning"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 74,
+      "question": "What is the most critical step when installing structural glass to ensure it performs as intended?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Precisely aligning the glass with factory reference points and securing it with the proper fasteners"
+        },
+        {
+          "label": "B",
+          "text": "Using generic fasteners without verifying compatibility"
+        },
+        {
+          "label": "C",
+          "text": "Installing the glass based solely on visual estimation"
+        },
+        {
+          "label": "D",
+          "text": "Skipping the alignment process to expedite installation"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 75,
+      "question": "Which technique is recommended for repairing laminated glass with minor delamination?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Utilizing specialized adhesives to bond the separated layers without replacing the entire assembly"
+        },
+        {
+          "label": "B",
+          "text": "Removing and replacing the entire glass assembly"
+        },
+        {
+          "label": "C",
+          "text": "Ignoring the delamination if it is barely noticeable"
+        },
+        {
+          "label": "D",
+          "text": "Utilizing specialized adhesives to bond the separated layers without replacing the entire assembly X"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 76,
+      "question": "How does the removal process differ between structural glass and laminated glass in collision repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Structural glass requires careful support to prevent damage, while laminated glass demands separation of its layers"
+        },
+        {
+          "label": "B",
+          "text": "Both are removed using identical procedures"
+        },
+        {
+          "label": "C",
+          "text": "Structural glass is removed more easily because it is less fragile"
+        },
+        {
+          "label": "D",
+          "text": "Laminated glass does not require any special removal techniques"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 77,
+      "question": "What is the most effective strategy to ensure a repaired laminated glass panel meets safety standards?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Performing thorough inspections of adhesive bonds and conducting impact resistance tests"
+        },
+        {
+          "label": "B",
+          "text": "Relying solely on a visual inspection after repair"
+        },
+        {
+          "label": "C",
+          "text": "Using standard glass without verifying its laminated structure."
+        },
+        {
+          "label": "D",
+          "text": "Skipping tests if the repair appears visually sound"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 78,
+      "question": "When reinstalling structural glass, which factor is critical for achieving a secure and lasting fit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Utilizing the correct mounting hardware and ensuring the glass is properly seated in the frame"
+        },
+        {
+          "label": "B",
+          "text": "Using any available hardware without compatibility checks"
+        },
+        {
+          "label": "C",
+          "text": "Relying on temporary supports during installation"
+        },
+        {
+          "label": "D",
+          "text": "Applying an incorrect sealant for the installation process"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 79,
+      "question": "What safety measure should be observed when handling and transporting removed glass panels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Securing the panels with protective padding and using appropriate lifting equipment to prevent breakage"
+        },
+        {
+          "label": "B",
+          "text": "Carrying the panels by hand regardless of their size"
+        },
+        {
+          "label": "C",
+          "text": "Transporting them in a crowded vehicle without protective measures"
+        },
+        {
+          "label": "D",
+          "text": "Using improvised supports that may scratch or damage the glass"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 80,
+      "question": "How does proper documentation contribute to the successful removal and installation of vehicle glass?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It records precise measurements and procedures, ensuring reinstallation aligns with manufacturer standards"
+        },
+        {
+          "label": "B",
+          "text": "It serves only as a backup in case of disputes"
+        },
+        {
+          "label": "C",
+          "text": "It is necessary only for insurance claims"
+        },
+        {
+          "label": "D",
+          "text": "It is optional and does not affect the repair quality"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 81,
+      "question": "Which method is recommended for removing stubborn adhesive residues after structural glass removal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Scraping the residue off with a metal tool"
+        },
+        {
+          "label": "B",
+          "text": "Using specialized glass-safe solvents and tools to gently remove residue without damaging the frame"
+        },
+        {
+          "label": "C",
+          "text": "Ignoring the residue during reinstallation"
+        },
+        {
+          "label": "D",
+          "text": "Applying excessive heat to burn off the adhesive residue"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 82,
+      "question": "What is the primary benefit of using a glass removal tool specifically designed for collision repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is used mainly for cosmetic purposes"
+        },
+        {
+          "label": "B",
+          "text": "It speeds up removal without considering safety"
+        },
+        {
+          "label": "C",
+          "text": "It minimizes stress on the glass during removal, reducing the risk of breakage and injury"
+        },
+        {
+          "label": "D",
+          "text": "It eliminates the need for personal protective equipment"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 83,
+      "question": "When repairing laminated glass, which characteristic of the adhesive is most critical for a successful repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Its ability to restore the original clarity and impact resistance of the laminated assembly B. Its color matching the glass"
+        },
+        {
+          "label": "C",
+          "text": "Its rapid drying time regardless of strength"
+        },
+        {
+          "label": "D",
+          "text": "Its low cost compared to complete glass replacement"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 84,
+      "question": "What is the key procedural difference between installing structural glass and repairing laminated glass?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Installing structural glass involves precise alignment and secure fastening, whereas repairing laminated glass focuses on re-establishing the bond between layers B. Both procedures are identical in every aspect"
+        },
+        {
+          "label": "C",
+          "text": "Repairing laminated glass is simpler because it requires no alignment"
+        },
+        {
+          "label": "D",
+          "text": "Installing structural glass does not require adhesive bonding"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 85,
+      "question": "How should technicians verify the quality of a repaired laminated glass panel before final installation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By using generic testing equipment without proper calibration B. By relying solely on the repair technician's subjective opinion C. By installing the glass and awaiting customer feedback"
+        },
+        {
+          "label": "D",
+          "text": "By conducting impact tests and thorough visual inspections to ensure proper adhesion and clarity"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 86,
+      "question": "What is the most critical factor to ensure safety when reinstalling repaired structural glass in a collision repair scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using non-standard fasteners to expedite installation."
+        },
+        {
+          "label": "B",
+          "text": "Installing the glass quickly to meet repair deadlines"
+        },
+        {
+          "label": "C",
+          "text": "Relying on visual estimation for sealant application"
+        },
+        {
+          "label": "D",
+          "text": "Ensuring that the glass is securely fastened, properly sealed, and aligned with manufacturer specifications"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 87,
+      "question": "What is the primary objective when preparing a metal panel for repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To directly apply a finish coat over contaminants."
+        },
+        {
+          "label": "B",
+          "text": "To remove surface contaminants through cleaning, degreasing, and mechanical abrasion."
+        },
+        {
+          "label": "C",
+          "text": "To quickly mask the damaged area with tape."
+        },
+        {
+          "label": "D",
+          "text": "To prime the panel without any prior cleaning."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 88,
+      "question": "Which technique ensures minimal damage when removing a metal panel for repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using a crowbar to force the panel off."
+        },
+        {
+          "label": "B",
+          "text": "Heating the panel to warp it away from the vehicle."
+        },
+        {
+          "label": "C",
+          "text": "Following manufacturer-recommended removal procedures and using specialized tools."
+        },
+        {
+          "label": "D",
+          "text": "Removing the panel without disconnecting any attached components."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 89,
+      "question": "In repairing a dented metal panel, which approach best restores the panel's original contour?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simply filling the dent with body filler."
+        },
+        {
+          "label": "B",
+          "text": "Using a combination of metal stretching and body filler for minor imperfections."
+        },
+        {
+          "label": "C",
+          "text": "Relying solely on heat shrink methods."
+        },
+        {
+          "label": "D",
+          "text": "Replacing the entire panel without attempting repair."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 90,
+      "question": "When installing a repaired metal panel, what is critical to ensure proper fit and alignment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using uncalibrated measuring tapes."
+        },
+        {
+          "label": "B",
+          "text": "Relying on visual alignment only."
+        },
+        {
+          "label": "C",
+          "text": "Referencing factory dimensions and using precision alignment tools."
+        },
+        {
+          "label": "D",
+          "text": "Randomly aligning the panel until it appears correct."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 91,
+      "question": "Which procedure is most effective for determining whether a metal panel should",
+      "options": [
+        {
+          "label": "A",
+          "text": "A subjective visual evaluation."
+        },
+        {
+          "label": "B",
+          "text": "Comparing the panel's damage and dimensions against OEM specifications."
+        },
+        {
+          "label": "C",
+          "text": "Assessing only the surface color differences."
+        },
+        {
+          "label": "D",
+          "text": "Relying solely on customer feedback."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 92,
+      "question": "During metal panel repair, which safety precaution is essential when operating grinding equipment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wearing standard work clothes."
+        },
+        {
+          "label": "B",
+          "text": "Ensuring proper PPE is worn, including eye protection and gloves."
+        },
+        {
+          "label": "C",
+          "text": "Operating the grinder at maximum speed to shorten exposure."
+        },
+        {
+          "label": "D",
+          "text": "Running the equipment without additional ventilation."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 93,
+      "question": "Which factor is most critical in selecting the appropriate filler material for a metal panel repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Its cost alone."
+        },
+        {
+          "label": "B",
+          "text": "Its compatibility with the metal substrate and proper curing properties."
+        },
+        {
+          "label": "C",
+          "text": "The filler's color matching the panel."
+        },
+        {
+          "label": "D",
+          "text": "The ease of application regardless of performance."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 94,
+      "question": "What is the role of a primer in the metal panel repair process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It provides the final finish layer."
+        },
+        {
+          "label": "B",
+          "text": "It ensures adhesion of subsequent coatings and prevents corrosion."
+        },
+        {
+          "label": "C",
+          "text": "It masks surface imperfections."
+        },
+        {
+          "label": "D",
+          "text": "It acts as a solvent for the filler material."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 95,
+      "question": "How does surface masking contribute to the repair process of metal panels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It protects adjacent areas from overspray during refinishing."
+        },
+        {
+          "label": "B",
+          "text": "It alters the surface texture of the panel."
+        },
+        {
+          "label": "C",
+          "text": "It significantly increases overall repair time."
+        },
+        {
+          "label": "D",
+          "text": "It is unnecessary for small repair areas."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 96,
+      "question": "What is the significance of using factory-recommended hardware during metal panel reinstallation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It simplifies the process without affecting repair quality."
+        },
+        {
+          "label": "B",
+          "text": "It ensures the integrity and durability of the repair."
+        },
+        {
+          "label": "C",
+          "text": "It serves a purely cosmetic function."
+        },
+        {
+          "label": "D",
+          "text": "It allows for more flexible panel alignment."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 97,
+      "question": "Which tool is most effective for accurately aligning a metal panel during installation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A standard ruler."
+        },
+        {
+          "label": "B",
+          "text": "A digital angle finder and laser alignment tool."
+        },
+        {
+          "label": "C",
+          "text": "A piece of string."
+        },
+        {
+          "label": "D",
+          "text": "A measuring wheel."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 98,
+      "question": "How does the use of heat shrinking techniques benefit metal panel repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It causes further distortion of the panel."
+        },
+        {
+          "label": "B",
+          "text": "It helps restore the metal's original shape by reducing minor dents."
+        },
+        {
+          "label": "C",
+          "text": "It solely increases the repair speed without improving quality."
+        },
+        {
+          "label": "D",
+          "text": "It is applicable only to plastic panels."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 99,
+      "question": "When evaluating damage on a metal component, what is the most reliable method?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Visual estimation without measurement tools."
+        },
+        {
+          "label": "B",
+          "text": "Measuring the distortion against factory templates."
+        },
+        {
+          "label": "C",
+          "text": "Listening for unusual sounds during inspection."
+        },
+        {
+          "label": "D",
+          "text": "Relying on data from previous repairs."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 100,
+      "question": "What procedure is recommended to avoid overexposure to heat during metal panel repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using a high-heat setting continuously."
+        },
+        {
+          "label": "B",
+          "text": "Applying intermittent heat with cooling periods in between."
+        },
+        {
+          "label": "C",
+          "text": "Relying solely on ambient temperature."
+        },
+        {
+          "label": "D",
+          "text": "Completely avoiding any use of heat."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 101,
+      "question": "During metal panel repair, why is it important to remove all residual debris from the work area?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is unnecessary for small repairs."
+        },
+        {
+          "label": "B",
+          "text": "It prevents contamination of repair materials and ensures a smooth finish."
+        },
+        {
+          "label": "C",
+          "text": "It only affects the visual appearance, not the repair quality."
+        },
+        {
+          "label": "D",
+          "text": "It is best done after reinstallation."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 102,
+      "question": "Which step is crucial after completing a metal panel repair before final installation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediately reattaching the panel without further checks."
+        },
+        {
+          "label": "B",
+          "text": "Skipping the inspection to expedite the process."
+        },
+        {
+          "label": "C",
+          "text": "Allowing the repair to air dry without inspection."
+        },
+        {
+          "label": "D",
+          "text": "Conducting a detailed quality inspection and verifying measurements."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 103,
+      "question": "When preparing a plastic panel for repair, what is the first step to ensure proper adhesion of repair materials?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heating the panel with a blowtorch."
+        },
+        {
+          "label": "B",
+          "text": "Directly applying filler without any surface preparation."
+        },
+        {
+          "label": "C",
+          "text": "Cleaning and lightly scuffing the surface to improve mechanical bonding."
+        },
+        {
+          "label": "D",
+          "text": "Sanding the panel vigorously until it deforms."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 104,
+      "question": "What is the recommended procedure for safely removing a damaged composite panel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Forcing the panel off using leverage tools."
+        },
+        {
+          "label": "B",
+          "text": "Heating the panel to soften adhesives and then prying it away."
+        },
+        {
+          "label": "C",
+          "text": "Employing manufacturer-specified techniques with specialized trim tools."
+        },
+        {
+          "label": "D",
+          "text": "Cutting through the panel completely with a saw."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 105,
+      "question": "Which repair technique is most effective in restoring the original appearance of a scratched composite panel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Applying a thicker layer of filler."
+        },
+        {
+          "label": "B",
+          "text": "Utilizing a blend of plastic welding and controlled sanding."
+        },
+        {
+          "label": "C",
+          "text": "Replacing the entire panel immediately."
+        },
+        {
+          "label": "D",
+          "text": "Simply buffing the surface with a soft cloth."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 106,
+      "question": "How can technicians prevent further damage when repairing plastic panels with embedded scratches?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ignoring minor scratches as they will self-heal."
+        },
+        {
+          "label": "B",
+          "text": "Carefully sanding the scratched areas and applying a suitable plastic filler."
+        },
+        {
+          "label": "C",
+          "text": "Using aggressive mechanical removal methods."
+        },
+        {
+          "label": "D",
+          "text": "Overheating the panel to mask the scratches."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 107,
+      "question": "What is the primary consideration when selecting adhesives for composite panel repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The adhesive's drying time only."
+        },
+        {
+          "label": "B",
+          "text": "Its compatibility with the panel material and flexibility after curing."
+        },
+        {
+          "label": "C",
+          "text": "The brand name of the adhesive."
+        },
+        {
+          "label": "D",
+          "text": "The adhesive's color matching properties."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 108,
+      "question": "When preparing to install a repaired plastic panel, what is critical for ensuring seamless integration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Forcing the panel into place with excessive pressure."
+        },
+        {
+          "label": "B",
+          "text": "Aligning the panel using precise measurements and manufacturer guidelines."
+        },
+        {
+          "label": "C",
+          "text": "Relying solely on the technician's memory of the original setup."
+        },
+        {
+          "label": "D",
+          "text": "Installing the panel without removing old adhesive residues."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 109,
+      "question": "How should a technician approach repairing a plastic panel with deep scratches and minor cracks?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sanding the surface and using plastic welding techniques to mend the damage."
+        },
+        {
+          "label": "B",
+          "text": "Ignoring the scratches and only addressing the cracks."
+        },
+        {
+          "label": "C",
+          "text": "Using body filler designed for metal panels."
+        },
+        {
+          "label": "D",
+          "text": "Replacing the panel without attempting repair."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 110,
+      "question": "Which safety precaution is paramount when repairing composite panels that require heating?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using standard work gloves without heat resistance."
+        },
+        {
+          "label": "B",
+          "text": "Wearing heat-resistant gloves and ensuring proper ventilation."
+        },
+        {
+          "label": "C",
+          "text": "Relying on ambient room temperature without additional measures."
+        },
+        {
+          "label": "D",
+          "text": "Using open flames without protective barriers."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 111,
+      "question": "What is the best method to prepare the bonding surface of a composite panel before applying adhesive? A Wiping the surface with water only.",
+      "options": [
+        {
+          "label": "B",
+          "text": "Sanding and cleaning with a solvent to remove contaminants."
+        },
+        {
+          "label": "C",
+          "text": "Painting over the area to seal it."
+        },
+        {
+          "label": "D",
+          "text": "Ignoring surface preparation entirely."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 112,
+      "question": "During the removal of a composite panel, which factor is key to preventing damage to adjacent structures?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using a pry bar aggressively."
+        },
+        {
+          "label": "B",
+          "text": "Cutting the panel into pieces for easier removal."
+        },
+        {
+          "label": "C",
+          "text": "Following detailed disassembly instructions and using appropriate trim removal tools D. Pulling the panel off without detaching connectors."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 113,
+      "question": "How can a technician ensure a secure installation of a repaired plastic panel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By aligning the panel using rough estimates."
+        },
+        {
+          "label": "B",
+          "text": "By verifying alignment with precise measurements and securing fasteners per manufacturer specifications."
+        },
+        {
+          "label": "C",
+          "text": "By using extra adhesive as a temporary measure."
+        },
+        {
+          "label": "D",
+          "text": "By skipping the reinstallation process altogether."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 114,
+      "question": "What is the primary benefit of using specialized plastic welding in composite panel repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It provides a permanent, seamless bond that matches the panel's original strength. B. It is a temporary fix with limited durability."
+        },
+        {
+          "label": "C",
+          "text": "It only covers cosmetic imperfections."
+        },
+        {
+          "label": "D",
+          "text": "It requires no surface preparation."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 115,
+      "question": "Which factor is most crucial in deciding whether to repair or replace a plastic panel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The cost of repair materials alone."
+        },
+        {
+          "label": "B",
+          "text": "The extent of damage and the feasibility of restoring structural integrity."
+        },
+        {
+          "label": "C",
+          "text": "The color of the panel."
+        },
+        {
+          "label": "D",
+          "text": "The repair shop's current workload."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 116,
+      "question": "How does the use of heat assist in repairing composite panels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It causes further degradation of the material."
+        },
+        {
+          "label": "B",
+          "text": "It softens the material, allowing for reshaping and proper bonding. C. It only accelerates adhesive curing without reshaping benefits."
+        },
+        {
+          "label": "D",
+          "text": "It is unnecessary if fillers are used."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 117,
+      "question": "Which repair method is most effective for correcting minor imperfections in plastic panels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Replacing the entire panel."
+        },
+        {
+          "label": "B",
+          "text": "Light sanding followed by the application of a corrective coating."
+        },
+        {
+          "label": "C",
+          "text": "Ignoring the imperfections entirely."
+        },
+        {
+          "label": "D",
+          "text": "Using metal fillers to smooth the surface."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 118,
+      "question": "What role does proper surface cleaning play in the repair of composite panels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It unnecessarily delays the repair process."
+        },
+        {
+          "label": "B",
+          "text": "It ensures optimal adhesion of repair materials by removing contaminants."
+        },
+        {
+          "label": "C",
+          "text": "It is performed solely for aesthetic reasons."
+        },
+        {
+          "label": "D",
+          "text": "It makes the surface too smooth for proper bonding."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 119,
+      "question": "How can a technician verify the compatibility of repair materials with a composite panel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By testing a small, inconspicuous area first."
+        },
+        {
+          "label": "B",
+          "text": "By relying solely on the product's advertised claims."
+        },
+        {
+          "label": "C",
+          "text": "By mixing various fillers and adhesives randomly."
+        },
+        {
+          "label": "D",
+          "text": "By ignoring manufacturer recommendations entirely."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 120,
+      "question": "Which technique is best for achieving a flawless finish on a repaired plastic panel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Over-applying filler and then sanding it down roughly."
+        },
+        {
+          "label": "B",
+          "text": "Using gradual layering and precision sanding to achieve a uniform surface."
+        },
+        {
+          "label": "C",
+          "text": "Applying one thick layer of paint to cover imperfections."
+        },
+        {
+          "label": "D",
+          "text": "Skipping the sanding process to expedite the repair."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 121,
+      "question": "What is the significance of using manufacturer-recommended fasteners when reinstalling plastic panels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They ensure compatibility and proper load distribution."
+        },
+        {
+          "label": "B",
+          "text": "They are chosen solely for their availability."
+        },
+        {
+          "label": "C",
+          "text": "They have little impact on repair quality."
+        },
+        {
+          "label": "D",
+          "text": "They are used only for their aesthetic appeal."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 122,
+      "question": "Which factor is essential when assessing whether a composite panel should be repaired or replaced?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The severity and location of the damage relative to its function."
+        },
+        {
+          "label": "B",
+          "text": "The repair shop's current inventory levels."
+        },
+        {
+          "label": "C",
+          "text": "The market price of composite panels."
+        },
+        {
+          "label": "D",
+          "text": "The vehicle owner's personal preference."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 123,
+      "question": "When removing non-structural glass from a vehicle, which step is most crucial to avoid breakage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Forcing the glass removal with brute strength."
+        },
+        {
+          "label": "B",
+          "text": "Removing the glass without detaching any retaining clips."
+        },
+        {
+          "label": "C",
+          "text": "Carefully supporting the glass and gently releasing the retaining clips."
+        },
+        {
+          "label": "D",
+          "text": "Using excessive heat to loosen the glass."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 124,
+      "question": "Which tool is most suitable for the safe removal of non-structural glass?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A standard flathead screwdriver."
+        },
+        {
+          "label": "B",
+          "text": "A metal crowbar."
+        },
+        {
+          "label": "C",
+          "text": "A high-pressure water jet."
+        },
+        {
+          "label": "D",
+          "text": "Specialized glass removal tools designed to minimize stress on the glass."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 125,
+      "question": "How should a technician prepare the mounting area after removing non- structural glass?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clean the frame thoroughly and inspect for any damage or debris."
+        },
+        {
+          "label": "B",
+          "text": "Immediately apply adhesive without cleaning the area."
+        },
+        {
+          "label": "C",
+          "text": "Cover the area with a temporary plastic sheet."
+        },
+        {
+          "label": "D",
+          "text": "Rely on previous installation marks without further preparation."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 126,
+      "question": "During the installation of non-structural glass, what ensures proper alignment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using only visual estimation."
+        },
+        {
+          "label": "B",
+          "text": "Forcing the glass into place without adjustments."
+        },
+        {
+          "label": "C",
+          "text": "Utilizing alignment marks and verifying the fit with manufacturer guidelines."
+        },
+        {
+          "label": "D",
+          "text": "Relying on a pre-installed template exclusively."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 127,
+      "question": "What is the primary purpose of applying sealant around non-structural glass during installation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To enhance the aesthetic appearance only."
+        },
+        {
+          "label": "B",
+          "text": "To provide structural reinforcement."
+        },
+        {
+          "label": "C",
+          "text": "To expedite the installation process."
+        },
+        {
+          "label": "D",
+          "text": "To create a weatherproof barrier and prevent water intrusion."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 128,
+      "question": "How can a technician ensure the durability of the bond between non-structural glass and its frame?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By applying the recommended amount of sealant evenly and allowing proper curing time."
+        },
+        {
+          "label": "B",
+          "text": "By using an excessive amount of sealant regardless of guidelines."
+        },
+        {
+          "label": "C",
+          "text": "By relying solely on mechanical fasteners without adhesive."
+        },
+        {
+          "label": "D",
+          "text": "By skipping the cleaning of the bonding surface."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 129,
+      "question": "What is a common pitfall to avoid during the removal of non-structural glass?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using protective padding during removal."
+        },
+        {
+          "label": "B",
+          "text": "Pre-inspecting the mounting area thoroughly."
+        },
+        {
+          "label": "C",
+          "text": "Following manufacturer guidelines strictly."
+        },
+        {
+          "label": "D",
+          "text": "Failing to properly support the glass, which may lead to breakage."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 130,
+      "question": "Which method is most effective for handling and transporting non-structural glass after removal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carrying the glass without any protective padding."
+        },
+        {
+          "label": "B",
+          "text": "Leaving the glass exposed to direct sunlight."
+        },
+        {
+          "label": "C",
+          "text": "Wrapping the glass in protective material and using proper lifting equipment. D. Storing the glass loosely in a crowded area."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 131,
+      "question": "How does proper documentation of the glass removal process benefit subsequent reinstallation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It adds unnecessary paperwork without practical benefits."
+        },
+        {
+          "label": "B",
+          "text": "It ensures accurate reinstallation by recording alignment and installation parameters."
+        },
+        {
+          "label": "C",
+          "text": "It is used solely for billing purposes."
+        },
+        {
+          "label": "D",
+          "text": "It is optional and rarely influences the outcome."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 132,
+      "question": "During the installation of non-structural glass, which factor is most critical for achieving a secure fit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The speed at which the glass is installed."
+        },
+        {
+          "label": "B",
+          "text": "The cost of the sealant used."
+        },
+        {
+          "label": "C",
+          "text": "The color match of the glass with the vehicle."
+        },
+        {
+          "label": "D",
+          "text": "Precise alignment with the original mounting points and proper sealing."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 133,
+      "question": "What is the main advantage of using a temporary support during non-structural glass installation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It reduces the overall installation time."
+        },
+        {
+          "label": "B",
+          "text": "It increases the strength of the adhesive bond."
+        },
+        {
+          "label": "C",
+          "text": "It maintains the correct position of the glass until the adhesive cures fully."
+        },
+        {
+          "label": "D",
+          "text": "It is mainly used for making aesthetic adjustments."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 134,
+      "question": "Which post-installation inspection step is essential to confirm the integrity of a non-structural glass installation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verifying sealant continuity and ensuring the glass is securely mounted as per manufacturer specifications."
+        },
+        {
+          "label": "B",
+          "text": "Conducting only a brief visual check for cracks."
+        },
+        {
+          "label": "C",
+          "text": "Measuring the glass dimensions without checking the bond."
+        },
+        {
+          "label": "D",
+          "text": "Relying solely on previous installation records."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 135,
+      "question": "What is the most critical step before deactivating an alternative-fuel system for repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disconnect the electronic control module."
+        },
+        {
+          "label": "B",
+          "text": "Depressurize the fuel system and secure all valves."
+        },
+        {
+          "label": "C",
+          "text": "Remove the fuel tank immediately."
+        },
+        {
+          "label": "D",
+          "text": "Drain all associated fluids."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 136,
+      "question": "Which procedure is recommended when reactivating an alternative-fuel system after maintenance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reconnect components and start the engine without testing."
+        },
+        {
+          "label": "B",
+          "text": "Activate the system using preset defaults without further checks."
+        },
+        {
+          "label": "C",
+          "text": "Verify only the fuel level and ignore sensor calibrations."
+        },
+        {
+          "label": "D",
+          "text": "Conduct a comprehensive leak test, calibrate sensors, and verify valve operations."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 137,
+      "question": "What safety measure is essential when working near an alternative-fuel system during deactivation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wearing standard work clothes."
+        },
+        {
+          "label": "B",
+          "text": "Using flame-retardant clothing and proper eye protection."
+        },
+        {
+          "label": "C",
+          "text": "Relying solely on common sense without PPE."
+        },
+        {
+          "label": "D",
+          "text": "Disabling only the fuel supply line."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 138,
+      "question": "During deactivation, why is it important to secure all electrical connectors in an alternative-fuel system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To prevent accidental reactivation via an inadvertent power supply."
+        },
+        {
+          "label": "B",
+          "text": "To enhance overall fuel efficiency."
+        },
+        {
+          "label": "C",
+          "text": "To boost system performance during testing."
+        },
+        {
+          "label": "D",
+          "text": "To reduce the system's overall weight."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 139,
+      "question": "Which tool is most appropriate for verifying the integrity of an alternative-fuel system after reactivation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A standard multimeter."
+        },
+        {
+          "label": "B",
+          "text": "A specialized fuel system analyzer with leak detection."
+        },
+        {
+          "label": "C",
+          "text": "A basic pressure gauge."
+        },
+        {
+          "label": "D",
+          "text": "A thermal imaging camera."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 140,
+      "question": "Before reactivating an alternative-fuel system, what must be confirmed regarding system components?",
+      "options": [
+        {
+          "label": "A",
+          "text": "That all components are visually polished."
+        },
+        {
+          "label": "B",
+          "text": "That replacement parts have been installed regardless of condition."
+        },
+        {
+          "label": "C",
+          "text": "That all connections are secure and free from corrosion."
+        },
+        {
+          "label": "D",
+          "text": "That system wiring has been rerouted for performance upgrades."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 141,
+      "question": "What is the primary purpose of isolating the alternative-fuel system during maintenance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To allow simultaneous engine activation."
+        },
+        {
+          "label": "B",
+          "text": "To prevent fuel leakage and ensure technician safety."
+        },
+        {
+          "label": "C",
+          "text": "To reduce vehicle weight for easier handling."
+        },
+        {
+          "label": "D",
+          "text": "To accelerate the repair process."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 142,
+      "question": "After completing repairs on an alternative-fuel system, which final check is crucial before returning the vehicle to service?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Checking the engine oil level."
+        },
+        {
+          "label": "B",
+          "text": "Verifying system diagnostic codes and confirming zero fault indications."
+        },
+        {
+          "label": "C",
+          "text": "Adjusting the air conditioning settings."
+        },
+        {
+          "label": "D",
+          "text": "Resetting the vehicle's entertainment system."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 143,
+      "question": "When removing mechanical components from a vehicle's engine bay, what is the key consideration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ensuring that the components are removed without disturbing adjacent wiring."
+        },
+        {
+          "label": "B",
+          "text": "Disassembling parts without consulting the service manual."
+        },
+        {
+          "label": "C",
+          "text": "Using excessive force to expedite the removal process."
+        },
+        {
+          "label": "D",
+          "text": "Ignoring the proper sequence of removal."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 144,
+      "question": "When installing mechanical components, why is it essential to follow manufacturer torque specifications?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To ensure only a snug fit."
+        },
+        {
+          "label": "B",
+          "text": "To prevent component damage and maintain optimal performance."
+        },
+        {
+          "label": "C",
+          "text": "To reduce installation time irrespective of accuracy."
+        },
+        {
+          "label": "D",
+          "text": "To eliminate the need for lubrication."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 145,
+      "question": "Which step is critical when disconnecting mechanical components from a hydraulic system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediately disconnecting without any preliminary steps."
+        },
+        {
+          "label": "B",
+          "text": "Bleeding the hydraulic lines to release stored pressure."
+        },
+        {
+          "label": "C",
+          "text": "Draining the hydraulic fluid and relieving pressure before disconnection. D. Securing the component with clamps while leaving the fluid intact."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 146,
+      "question": "During installation of a new mechanical component, what is the primary purpose of performing a dry-fit test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To immediately tighten fasteners without checking alignment."
+        },
+        {
+          "label": "B",
+          "text": "To lubricate the component before final mounting."
+        },
+        {
+          "label": "C",
+          "text": "To secure the component loosely for later adjustments."
+        },
+        {
+          "label": "D",
+          "text": "To verify alignment and ensure compatibility with adjacent parts."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 147,
+      "question": "When removing mechanical components, which documentation is most useful for ensuring accurate reinstallation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A rough sketch on a napkin."
+        },
+        {
+          "label": "B",
+          "text": "The manufacturer's service manual and repair diagrams."
+        },
+        {
+          "label": "C",
+          "text": "The technician's memory of the layout."
+        },
+        {
+          "label": "D",
+          "text": "A verbal description provided by a colleague."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 148,
+      "question": "What is the benefit of using calibrated tools during the installation of mechanical components?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They eliminate the need for any final inspections."
+        },
+        {
+          "label": "B",
+          "text": "They ensure precise measurements, leading to proper component fit and performance."
+        },
+        {
+          "label": "C",
+          "text": "They are only necessary for high-performance vehicles."
+        },
+        {
+          "label": "D",
+          "text": "They are used solely for aesthetic adjustments."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 149,
+      "question": "What is the primary safety consideration when removing electrical components from a vehicle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ensuring that the vehicle's battery is disconnected to prevent short circuits."
+        },
+        {
+          "label": "B",
+          "text": "Removing components while the battery remains connected."
+        },
+        {
+          "label": "C",
+          "text": "Ignoring any warning labels on connectors."
+        },
+        {
+          "label": "D",
+          "text": "Using non-insulated tools to expedite the removal process."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 150,
+      "question": "When repairing damaged wiring in an electrical system, which step is most critical?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Splicing wires without stripping the damaged insulation."
+        },
+        {
+          "label": "B",
+          "text": "Using proper connectors and insulating materials after cleaning the damaged area. C. Simply wrapping the wires with electrical tape without removing the damaged section. D. Bypassing the damaged section entirely."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 151,
+      "question": "How can technicians best verify the integrity of a repaired wire harness?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By performing continuity and resistance tests using a multimeter."
+        },
+        {
+          "label": "B",
+          "text": "By relying solely on a visual inspection."
+        },
+        {
+          "label": "C",
+          "text": "By reconnecting the harness immediately without testing."
+        },
+        {
+          "label": "D",
+          "text": "By depending on previous repair records."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 152,
+      "question": "Which tool is most effective for diagnosing faults in advanced electronic components during vehicle repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A standard flashlight."
+        },
+        {
+          "label": "B",
+          "text": "A basic voltage tester without additional functions."
+        },
+        {
+          "label": "C",
+          "text": "A manual circuit diagram for reference."
+        },
+        {
+          "label": "D",
+          "text": "An automotive diagnostic scanner that reads error codes and sensor data."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 153,
+      "question": "What precaution should be taken when repairing electrical components in a high-voltage system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Working with the system energized to identify faults."
+        },
+        {
+          "label": "B",
+          "text": "Wearing insulated gloves and using proper personal protective equipment (PPE) to avoid electrical shock."
+        },
+        {
+          "label": "C",
+          "text": "Ignoring lockout-tagout procedures."
+        },
+        {
+          "label": "D",
+          "text": "Using non-insulated tools to speed up the process."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 154,
+      "question": "During installation of electrical components, why is it essential to follow wiring schematics exactly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To ensure all connections are correct and prevent system malfunctions."
+        },
+        {
+          "label": "B",
+          "text": "To allow for creative modifications that improve performance."
+        },
+        {
+          "label": "C",
+          "text": "To reduce the need for testing after installation."
+        },
+        {
+          "label": "D",
+          "text": "To speed up the installation process regardless of accuracy."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 155,
+      "question": "How does proper cable routing and securing impact the performance of a vehicle's electrical system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It increases cable length unnecessarily."
+        },
+        {
+          "label": "B",
+          "text": "It is primarily for aesthetic purposes only. C. It has little effect on system reliability."
+        },
+        {
+          "label": "D",
+          "text": "It prevents chafing, reduces electromagnetic interference, and enhances overall reliability."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 156,
+      "question": "What is the benefit of using heat shrink tubing on repaired wires?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It provides mechanical protection, insulation, and a secure seal against environmental factors."
+        },
+        {
+          "label": "B",
+          "text": "It serves only as a color-coding method."
+        },
+        {
+          "label": "C",
+          "text": "It is used primarily for temporary fixes."
+        },
+        {
+          "label": "D",
+          "text": "It unnecessarily increases the wire's resistance."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 157,
+      "question": "When servicing advanced electronic components, what is a key step to ensure accurate diagnostics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Resetting the system without reviewing error codes."
+        },
+        {
+          "label": "B",
+          "text": "Bypassing built-in self-test procedures to save time."
+        },
+        {
+          "label": "C",
+          "text": "Ignoring sensor calibration data during testing."
+        },
+        {
+          "label": "D",
+          "text": "Updating the software/firmware and running diagnostic tests per manufacturer guidelines."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 158,
+      "question": "In the event of a short circuit detected during electrical component repair, what is the immediate action required?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Continue testing to uncover additional faults."
+        },
+        {
+          "label": "B",
+          "text": "Disconnect the power source and inspect the wiring for damaged insulation or loose connections."
+        },
+        {
+          "label": "C",
+          "text": "Increase the power supply to test circuit resilience."
+        },
+        {
+          "label": "D",
+          "text": "Replace all wiring without isolating the specific fault."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 159,
+      "question": "Which method is most effective for repairing a damaged electrical connector housing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using a heat gun to melt the connector back together."
+        },
+        {
+          "label": "B",
+          "text": "Ignoring the damage and reusing the existing connector."
+        },
+        {
+          "label": "C",
+          "text": "Applying adhesive to bond the housing without ensuring proper fit."
+        },
+        {
+          "label": "D",
+          "text": "Replacing the connector housing entirely with a manufacturer-approved part."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 160,
+      "question": "What final check should be performed after installing electrical components to ensure proper system operation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rely solely on visual inspection of the wiring."
+        },
+        {
+          "label": "B",
+          "text": "Immediately reassemble the vehicle without further testing."
+        },
+        {
+          "label": "C",
+          "text": "Ignore any error codes generated during startup."
+        },
+        {
+          "label": "D",
+          "text": "Verify all connections using a diagnostic scanner and perform a functional system test."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 161,
+      "question": "When repairing a damaged dashboard panel, which step is most critical to avoid harming the integrated wiring harness?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Forcing the panel off quickly without disconnecting connectors."
+        },
+        {
+          "label": "B",
+          "text": "Using aggressive mechanical force to detach the panel."
+        },
+        {
+          "label": "C",
+          "text": "Carefully disconnecting all electrical connections and labeling wires before removal. D. Heating the panel excessively to loosen adhesives."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 162,
+      "question": "What is the recommended procedure for reassembling a replaced center console to ensure proper fit and functionality?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reinstalling the console based solely on visual alignment."
+        },
+        {
+          "label": "B",
+          "text": "Utilizing generic fasteners that match any model."
+        },
+        {
+          "label": "C",
+          "text": "Following manufacturer specifications and verifying alignment with original mounting points."
+        },
+        {
+          "label": "D",
+          "text": "Skipping the reinstallation of electrical connectors."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 163,
+      "question": "When diagnosing a malfunctioning door panel control module, what is the key step to ensure an accurate repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Replacing the module immediately without further tests."
+        },
+        {
+          "label": "B",
+          "text": "Resetting the vehicle's battery to clear error codes."
+        },
+        {
+          "label": "C",
+          "text": "Cleaning the surface of the module with a solvent."
+        },
+        {
+          "label": "D",
+          "text": "Conducting a thorough diagnostic test to verify wiring and control signals."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 164,
+      "question": "What is the most effective method for repairing a cracked instrument panel bezel without compromising aesthetics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Replacing the entire dashboard assembly."
+        },
+        {
+          "label": "B",
+          "text": "Utilizing specialty adhesives and reinforcement techniques to restore the bezel. C. Applying excessive body filler to cover the crack."
+        },
+        {
+          "label": "D",
+          "text": "Ignoring the crack if it does not affect functionality."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 165,
+      "question": "When servicing airbag components, which safety measure is paramount to prevent accidental deployment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disconnecting the airbag module without any waiting period."
+        },
+        {
+          "label": "B",
+          "text": "Disconnecting the vehicle battery and waiting the prescribed time for capacitors to discharge."
+        },
+        {
+          "label": "C",
+          "text": "Removing the airbag cover without consulting the manual."
+        },
+        {
+          "label": "D",
+          "text": "Bypassing safety precautions to expedite the repair."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 166,
+      "question": "What is the recommended procedure for testing the functionality of a supplemental restraint system after servicing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Visually inspecting the airbag for physical damage only."
+        },
+        {
+          "label": "B",
+          "text": "Relying solely on the vehicle's warning lights."
+        },
+        {
+          "label": "C",
+          "text": "Using an advanced diagnostic tool to monitor sensor data and system readiness."
+        },
+        {
+          "label": "D",
+          "text": "Performing a manual deployment test on the road."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 167,
+      "question": "When replacing a worn seat belt retractor assembly, what procedure should be followed to ensure proper functionality?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simply tightening the existing retractor mechanism."
+        },
+        {
+          "label": "B",
+          "text": "Reinstalling the same assembly after cleaning it."
+        },
+        {
+          "label": "C",
+          "text": "Disconnecting all related wiring and installing a new assembly without calibration."
+        },
+        {
+          "label": "D",
+          "text": "Removing the assembly, disconnecting electrical connections if applicable, and installing the new unit following manufacturer guidelines."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 168,
+      "question": "After completing repairs on an airbag system, what is the most reliable method to verify proper operation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Observing the airbag module for any visible signs of damage."
+        },
+        {
+          "label": "B",
+          "text": "Running a manufacturer-recommended self-test with diagnostic equipment to confirm system integrity."
+        },
+        {
+          "label": "C",
+          "text": "Asking the vehicle owner to test the airbag manually."
+        },
+        {
+          "label": "D",
+          "text": "Relying solely on previous repair records."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 169,
+      "question": "What is the most important factor in achieving a seamless repair on interior trim panels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using excessive body filler to cover all imperfections."
+        },
+        {
+          "label": "B",
+          "text": "Painting the panels without any surface preparation."
+        },
+        {
+          "label": "C",
+          "text": "Ensuring meticulous surface cleaning, proper adhesion, and precise alignment during reinstallation."
+        },
+        {
+          "label": "D",
+          "text": "Replacing the entire trim assembly even for minor damage."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 170,
+      "question": "What is the recommended repair method for superficial scratches on a vehicle door panel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complete panel replacement."
+        },
+        {
+          "label": "B",
+          "text": "Deep sanding to remove the entire finish."
+        },
+        {
+          "label": "C",
+          "text": "Using a chemical solvent to dissolve the scratch."
+        },
+        {
+          "label": "D",
+          "text": "Light sanding combined with a touch-up paint application to restore the finish."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 171,
+      "question": "When reinstalling interior components, what precaution is crucial to ensure they do not interfere with safety system sensors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ignoring sensor locations to expedite reinstallation."
+        },
+        {
+          "label": "B",
+          "text": "Verifying proper alignment and placement of components in accordance with manufacturer instructions."
+        },
+        {
+          "label": "C",
+          "text": "Using generic mounting brackets that do not consider sensor positions."
+        },
+        {
+          "label": "D",
+          "text": "Relying on trial and error during installation."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 172,
+      "question": "When repairing damaged leather upholstery, which factor is most critical to ensure a high-quality repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Matching the color, texture, and durability of the original leather using a specialized repair kit."
+        },
+        {
+          "label": "B",
+          "text": "Using generic fabric glue regardless of the material."
+        },
+        {
+          "label": "C",
+          "text": "Replacing the entire upholstery without considering cost."
+        },
+        {
+          "label": "D",
+          "text": "Ignoring minor tears if they do not affect seating comfort."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 173,
+      "question": "What is the most critical step in ensuring proper operation of a seat belt retractor after servicing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Replacing the seat belt assembly entirely without testing."
+        },
+        {
+          "label": "B",
+          "text": "Applying lubricant to the belt without any further checks."
+        },
+        {
+          "label": "C",
+          "text": "Relying on the vehicle's diagnostic system alone."
+        },
+        {
+          "label": "D",
+          "text": "Manually testing the retractor mechanism for correct tension and lock function."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 174,
+      "question": "When repairing a malfunctioning interior light assembly, what diagnostic step is essential to pinpoint the issue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Replacing the entire assembly without testing."
+        },
+        {
+          "label": "B",
+          "text": "Testing the wiring, bulb, and switch using a multimeter to identify faults."
+        },
+        {
+          "label": "C",
+          "text": "Cleaning the lens without inspecting electrical connections."
+        },
+        {
+          "label": "D",
+          "text": "Bypassing the light switch entirely during testing."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 175,
+      "question": "What safety precaution is essential when servicing airbag components located in the steering wheel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keeping the battery connected for continuous power."
+        },
+        {
+          "label": "B",
+          "text": "Using improvised tools for quick removal."
+        },
+        {
+          "label": "C",
+          "text": "Following lockout/tagout procedures to ensure the airbag system is fully discharged. D. Relying on prior experience without consulting safety guidelines."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 176,
+      "question": "Which resource is most crucial for ensuring correct calibration when replacing a blown SRS sensor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The vehicle owner's manual only."
+        },
+        {
+          "label": "B",
+          "text": "The manufacturer's repair manual and associated calibration charts."
+        },
+        {
+          "label": "C",
+          "text": "Generic online repair guides."
+        },
+        {
+          "label": "D",
+          "text": "Personal recollection of previous repairs."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 177,
+      "question": "What is an effective strategy for preventing damage to interior components during reassembly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rushing the process to minimize exposure."
+        },
+        {
+          "label": "B",
+          "text": "Storing all components in a single bin without organization."
+        },
+        {
+          "label": "C",
+          "text": "Reassembling without reference to disassembly documentation."
+        },
+        {
+          "label": "D",
+          "text": "Organizing removed parts and labeling connectors and fasteners during disassembly for accurate reinstallation."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 178,
+      "question": "What is the recommended procedure for diagnosing issues with a malfunctioning interior climate control panel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Replacing the entire HVAC system immediately."
+        },
+        {
+          "label": "B",
+          "text": "Ignoring sensor faults if the display appears normal."
+        },
+        {
+          "label": "C",
+          "text": "Using diagnostic tools to evaluate the control module and associated sensors."
+        },
+        {
+          "label": "D",
+          "text": "Cleaning the panel surface without further testing."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 179,
+      "question": "In verifying the readiness of a supplemental restraint system after service, what is the most reliable indicator of proper function?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The physical appearance of the airbag module."
+        },
+        {
+          "label": "B",
+          "text": "The vehicle's overall performance."
+        },
+        {
+          "label": "C",
+          "text": "The user's perception of system quality."
+        },
+        {
+          "label": "D",
+          "text": "The absence of fault codes during a comprehensive system self-test."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 180,
+      "question": "What maintenance step is essential when replacing worn interior components like door panels? B. Ensuring that all mounting clips and fasteners are either replaced or correctly reinstalled according to manufacturer specifications.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reusing old mounting clips regardless of condition."
+        },
+        {
+          "label": "C",
+          "text": "Ignoring fastener torque specifications."
+        },
+        {
+          "label": "D",
+          "text": "Installing components without verifying alignment."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 181,
+      "question": "What is the key factor in preventing interference with onboard safety sensors during center console repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disconnecting all sensors permanently."
+        },
+        {
+          "label": "B",
+          "text": "Relocating the sensors to a non-standard position."
+        },
+        {
+          "label": "C",
+          "text": "Consulting the wiring diagram and ensuring that sensor connections are maintained as per original configuration."
+        },
+        {
+          "label": "D",
+          "text": "Ignoring sensor placement during repairs."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 182,
+      "question": "How should a technician test the reinstallation of an SRS control module to ensure it communicates correctly with the vehicle systems?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using a diagnostic scanner to check for proper communication and error code clearance."
+        },
+        {
+          "label": "B",
+          "text": "Relying solely on the physical reassembly without electronic testing."
+        },
+        {
+          "label": "C",
+          "text": "Observing the module visually for signs of proper installation."
+        },
+        {
+          "label": "D",
+          "text": "Restarting the vehicle without any further testing."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 183,
+      "question": "What is the most effective method for eliminating rattling noises caused by loose interior components?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing the tension of the components without inspection."
+        },
+        {
+          "label": "B",
+          "text": "Using sound dampening material to cover the noise source only."
+        },
+        {
+          "label": "C",
+          "text": "Ignoring the noise if it does not affect performance."
+        },
+        {
+          "label": "D",
+          "text": "Identifying worn or loose mounting hardware and securing or replacing it as needed."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 184,
+      "question": "What diagnostic tool is most effective in verifying the performance of a seat belt system after servicing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A standard multimeter for voltage checks."
+        },
+        {
+          "label": "B",
+          "text": "A generic pressure gauge."
+        },
+        {
+          "label": "C",
+          "text": "A specialized seat belt diagnostic tester that measures retraction force and sensor output."
+        },
+        {
+          "label": "D",
+          "text": "A thermal imaging camera."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 185,
+      "question": "What is the most critical step during the initial preparation of a vehicle's surface for refinishing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Masking areas without inspection."
+        },
+        {
+          "label": "B",
+          "text": "Thoroughly cleaning the surface to remove contaminants, dirt, and rust."
+        },
+        {
+          "label": "C",
+          "text": "Applying repair materials directly onto the unprepared surface."
+        },
+        {
+          "label": "D",
+          "text": "Skipping sanding to reduce preparation time."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 186,
+      "question": "What is the purpose of proper masking during the refinishing process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To increase the gloss of the final finish."
+        },
+        {
+          "label": "B",
+          "text": "To reduce the number of paint coats required."
+        },
+        {
+          "label": "C",
+          "text": "To protect adjacent areas from overspray."
+        },
+        {
+          "label": "D",
+          "text": "To speed up the drying time."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 187,
+      "question": "Which method is most effective for stripping old paint and contaminants from a vehicle surface before refinishing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using a high-pressure water jet."
+        },
+        {
+          "label": "B",
+          "text": "Applying a chemical paint stripper followed by thorough rinsing."
+        },
+        {
+          "label": "C",
+          "text": "Sanding the surface without any chemical treatment."
+        },
+        {
+          "label": "D",
+          "text": "Using a heat gun exclusively to burn off old coatings."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 188,
+      "question": "Why is sanding a crucial step during surface preparation prior to refinishing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It eliminates the need for masking during painting."
+        },
+        {
+          "label": "B",
+          "text": "It increases the vehicle's resale value."
+        },
+        {
+          "label": "C",
+          "text": "It creates a uniform surface for better adhesion of repair materials and coatings."
+        },
+        {
+          "label": "D",
+          "text": "It permanently removes all surface imperfections."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 189,
+      "question": "What is the most important factor when mixing repair materials for body fillers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The ambient temperature only."
+        },
+        {
+          "label": "B",
+          "text": "Achieving the correct ratio of hardener to filler to ensure proper curing."
+        },
+        {
+          "label": "C",
+          "text": "Mixing the filler for an extended period beyond manufacturer instructions."
+        },
+        {
+          "label": "D",
+          "text": "Adding water to speed up the reaction."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 190,
+      "question": "During the application of repair materials, which technique helps minimize imperfections?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Applying the filler in one thick layer."
+        },
+        {
+          "label": "B",
+          "text": "Building up the filler in thin, controlled layers and sanding between coats."
+        },
+        {
+          "label": "C",
+          "text": "Rushing the application process to save time."
+        },
+        {
+          "label": "D",
+          "text": "Using an unapproved filler material."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 191,
+      "question": "What is a key step when preparing a spray booth for refinishing operations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blocking all entry points to prevent any airflow."
+        },
+        {
+          "label": "B",
+          "text": "Painting the booth walls to match the vehicle color."
+        },
+        {
+          "label": "C",
+          "text": "Turning off all extraction fans to maintain temperature."
+        },
+        {
+          "label": "D",
+          "text": "Ensuring proper ventilation and air filtration systems are in place."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 192,
+      "question": "What procedure is critical when setting up a spray gun for refinishing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using the highest pressure setting available."
+        },
+        {
+          "label": "B",
+          "text": "Relying solely on visual inspection of the spray pattern."
+        },
+        {
+          "label": "C",
+          "text": "Not cleaning the gun between colors."
+        },
+        {
+          "label": "D",
+          "text": "Adjusting the air pressure and fluid flow to achieve a consistent spray pattern."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 193,
+      "question": "What is the importance of mixing refinishing materials according to manufacturer specifications?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It minimizes the need for sanding after application."
+        },
+        {
+          "label": "B",
+          "text": "It ensures consistent color match and optimal performance of the finish."
+        },
+        {
+          "label": "C",
+          "text": "It primarily speeds up the drying process."
+        },
+        {
+          "label": "D",
+          "text": "It allows the use of lower quality materials."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 194,
+      "question": "During color adjustments of refinishing materials, which method is most effective?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Relying solely on visual judgment without testing."
+        },
+        {
+          "label": "B",
+          "text": "Mixing large batches without making incremental adjustments."
+        },
+        {
+          "label": "C",
+          "text": "Ignoring manufacturer recommended ratios."
+        },
+        {
+          "label": "D",
+          "text": "Adding a small amount of tint and testing on a sample panel."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 195,
+      "question": "What is the primary function of applying a sealer during the refinishing process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To add gloss to the finish."
+        },
+        {
+          "label": "B",
+          "text": "To mask underlying imperfections permanently."
+        },
+        {
+          "label": "C",
+          "text": "To improve adhesion of subsequent base coats and provide corrosion protection."
+        },
+        {
+          "label": "D",
+          "text": "To act as a final clear coat."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 196,
+      "question": "When applying the base coat in a refinishing procedure, what is the most important factor to ensure an even finish?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using multiple colors to create a custom finish."
+        },
+        {
+          "label": "B",
+          "text": "Rushing the application process."
+        },
+        {
+          "label": "C",
+          "text": "Applying the base coat as thickly as possible."
+        },
+        {
+          "label": "D",
+          "text": "Maintaining proper application distance and using consistent overlapping strokes."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 197,
+      "question": "In single-stage paint application, which technique contributes to a uniform finish?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using short, inconsistent bursts of spray."
+        },
+        {
+          "label": "B",
+          "text": "Overlapping strokes excessively."
+        },
+        {
+          "label": "C",
+          "text": "Applying the paint without any adjustments for environmental conditions."
+        },
+        {
+          "label": "D",
+          "text": "Spraying at a consistent speed and angle while maintaining appropriate distance from the surface."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 198,
+      "question": "What is the most critical step when applying a clear coat over a base coat?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Applying the clear coat immediately without waiting."
+        },
+        {
+          "label": "B",
+          "text": "Ignoring the ambient temperature during application."
+        },
+        {
+          "label": "C",
+          "text": "Using a clear coat with a different chemical composition than recommended."
+        },
+        {
+          "label": "D",
+          "text": "Ensuring the base coat is fully cured and free of imperfections before application."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 199,
+      "question": "After refinishing, why is it important to carefully remove masking materials?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To save time during the repair process."
+        },
+        {
+          "label": "B",
+          "text": "To intentionally create texture variations."
+        },
+        {
+          "label": "C",
+          "text": "To cover up surface imperfections."
+        },
+        {
+          "label": "D",
+          "text": "To reveal the final finish without causing damage or leaving adhesive residues."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 200,
+      "question": "What procedure is most effective for correcting minor surface imperfections after refinishing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reapplying a full layer of clear coat."
+        },
+        {
+          "label": "B",
+          "text": "Ignoring small defects as they will self-correct over time."
+        },
+        {
+          "label": "C",
+          "text": "Using a high-pressure water jet to smooth the surface."
+        },
+        {
+          "label": "D",
+          "text": "Applying a corrective compound followed by light sanding and buffing."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 201,
+      "question": "During the initial surface preparation, which method is most effective in removing embedded contaminants from a painted surface prior to refinishing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simply wiping with a dry cloth."
+        },
+        {
+          "label": "B",
+          "text": "Using a mild detergent and soft cloth. C. Sandblasting combined with hand-sanding. D. High-pressure steam cleaning."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 202,
+      "question": "What is the role of a decontaminator in the surface preparation process for automotive refinishing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It accelerates the drying time of repair materials."
+        },
+        {
+          "label": "B",
+          "text": "It removes oil, grease, and other contaminants that standard cleaning may miss"
+        },
+        {
+          "label": "C",
+          "text": "It acts as a primer substitute."
+        },
+        {
+          "label": "D",
+          "text": "It increases the gloss of the final finish."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 203,
+      "question": "When preparing a vehicle surface for refinishing, why is it important to allow adequate drying time after cleaning?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To prevent water droplets from interfering with adhesion."
+        },
+        {
+          "label": "B",
+          "text": "To reduce the effectiveness of the primer."
+        },
+        {
+          "label": "C",
+          "text": "To accelerate the curing of the paint."
+        },
+        {
+          "label": "D",
+          "text": "To eliminate the need for additional surface preparation."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 204,
+      "question": "In mixing repair materials, what is the consequence of an incorrect hardener-to- filler ratio?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Extended drying time and possible weak adhesion."
+        },
+        {
+          "label": "B",
+          "text": "Increased gloss in the final finish."
+        },
+        {
+          "label": "C",
+          "text": "Enhanced flexibility of the repair."
+        },
+        {
+          "label": "D",
+          "text": "Immediate curing with no negative effects."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 205,
+      "question": "How does the use of a dual-component mixing system benefit the application of repair materials?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It significantly increases the repair time."
+        },
+        {
+          "label": "B",
+          "text": "It ensures a more uniform mixture, leading to consistent curing and strength. C. It allows for adjustment of the color of the filler."
+        },
+        {
+          "label": "D",
+          "text": "It eliminates the need for sanding."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 206,
+      "question": "What safety precaution should be observed when mixing chemical repair materials?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Not wearing gloves to allow a better grip."
+        },
+        {
+          "label": "B",
+          "text": "Using water to dilute the chemicals for easier mixing."
+        },
+        {
+          "label": "C",
+          "text": "Mixing near open flames to speed up the reaction."
+        },
+        {
+          "label": "D",
+          "text": "Mixing in a well-ventilated area and wearing appropriate PPE."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 207,
+      "question": "Which environmental factor is most critical to consider when setting up refinishing equipment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The color of the equipment."
+        },
+        {
+          "label": "B",
+          "text": "Ambient temperature and humidity in the spray booth."
+        },
+        {
+          "label": "C",
+          "text": "The proximity to other vehicles."
+        },
+        {
+          "label": "D",
+          "text": "The brand of the spray gun."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 208,
+      "question": "How does proper calibration of a spray gun affect the quality of the finish?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It increases the amount of overspray."
+        },
+        {
+          "label": "B",
+          "text": "It has no significant effect on the finish."
+        },
+        {
+          "label": "C",
+          "text": "It ensures that the paint is applied in an even and controlled manner."
+        },
+        {
+          "label": "D",
+          "text": "It reduces the need for masking."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 209,
+      "question": "During the setup of refinishing equipment, why is it important to conduct a test spray?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To heat the equipment for better performance."
+        },
+        {
+          "label": "B",
+          "text": "To determine the final color of the paint."
+        },
+        {
+          "label": "C",
+          "text": "To calibrate the drying time settings."
+        },
+        {
+          "label": "D",
+          "text": "To verify the spray pattern and adjust the air pressure and fluid flow as needed."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 210,
+      "question": "What is a key indicator that refinishing materials have been mixed correctly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The mixture appears lumpy and inconsistent."
+        },
+        {
+          "label": "B",
+          "text": "The material cures instantly upon mixing."
+        },
+        {
+          "label": "C",
+          "text": "The material emits a strong odor."
+        },
+        {
+          "label": "D",
+          "text": "The mixture has a uniform consistency and matches the color specifications."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 211,
+      "question": "How does performing color adjustments during refinishing material preparation improve the final finish?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It makes the finish more reflective."
+        },
+        {
+          "label": "B",
+          "text": "It eliminates the need for a clear coat."
+        },
+        {
+          "label": "C",
+          "text": "It accelerates the curing process."
+        },
+        {
+          "label": "D",
+          "text": "It allows for a custom match to the vehicle's original color by fine-tuning the tint."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 212,
+      "question": "What is the primary benefit of applying a base coat after the sealer in a refinishing process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It adds a textured effect to the surface."
+        },
+        {
+          "label": "B",
+          "text": "It is applied only for aesthetic purposes."
+        },
+        {
+          "label": "C",
+          "text": "It acts as a temporary barrier and is removed later."
+        },
+        {
+          "label": "D",
+          "text": "It provides a uniform color layer that enhances the durability of the finish."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 213,
+      "question": "In a single-stage paint system, what is the key challenge compared to a base coat/clear coat system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Avoiding the need for masking."
+        },
+        {
+          "label": "B",
+          "text": "Reducing the number of application steps."
+        },
+        {
+          "label": "C",
+          "text": "Lowering the overall cost of materials."
+        },
+        {
+          "label": "D",
+          "text": "Achieving both color depth and gloss in one application."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 214,
+      "question": "Why is it important to allow sufficient drying time between coats in the refinishing process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It makes the final clear coat unnecessary."
+        },
+        {
+          "label": "B",
+          "text": "It reduces the need for post-refinishing corrections."
+        },
+        {
+          "label": "C",
+          "text": "It prevents intercoat adhesion problems and ensures a smooth, durable finish."
+        },
+        {
+          "label": "D",
+          "text": "It allows for immediate reassembly of vehicle components."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 215,
+      "question": "During the application of clear coat, which environmental factor can most affect the final appearance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The type of masking tape used."
+        },
+        {
+          "label": "B",
+          "text": "The color of the base coat."
+        },
+        {
+          "label": "C",
+          "text": "Ambient temperature and humidity."
+        },
+        {
+          "label": "D",
+          "text": "The time of day."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 216,
+      "question": "What is the role of a clear coat in the refinishing process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To mask the underlying color."
+        },
+        {
+          "label": "B",
+          "text": "To act as a base for further sanding."
+        },
+        {
+          "label": "C",
+          "text": "To remove imperfections in the base coat."
+        },
+        {
+          "label": "D",
+          "text": "To provide a protective, glossy finish that enhances durability and UV resistance."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 217,
+      "question": "After refinishing, what is a critical step to ensure the finished surface remains undamaged during cleanup?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using a high-pressure washer immediately on the finish. B. Scraping the finish to remove residual mask adhesive."
+        },
+        {
+          "label": "C",
+          "text": "Applying a wax coating before removing the masking."
+        },
+        {
+          "label": "D",
+          "text": "Removing masking materials carefully to avoid chipping the new finish."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 218,
+      "question": "What technique is most effective for correcting minor surface imperfections after the clear coat has dried?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reapplying a full layer of clear coat."
+        },
+        {
+          "label": "B",
+          "text": "Using chemical strippers on the clear coat."
+        },
+        {
+          "label": "C",
+          "text": "Ignoring the imperfections."
+        },
+        {
+          "label": "D",
+          "text": "Using a corrective compound with light sanding and polishing."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 219,
+      "question": "How does post-refinishing correction contribute to the overall quality of an automotive finish?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It adds unnecessary extra steps without significant benefits."
+        },
+        {
+          "label": "B",
+          "text": "It is used primarily for cosmetic adjustments only."
+        },
+        {
+          "label": "C",
+          "text": "It accelerates the production process."
+        },
+        {
+          "label": "D",
+          "text": "It ensures the surface is smooth and free of defects, enhancing durability and appearance."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 220,
+      "question": "What is the impact of inadequate sanding during the post-refinishing stage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It results in a uniformly smooth finish."
+        },
+        {
+          "label": "B",
+          "text": "It can leave visible sanding marks and reduce the overall clarity of the finish."
+        },
+        {
+          "label": "C",
+          "text": "It accelerates the drying process."
+        },
+        {
+          "label": "D",
+          "text": "It enhances the adhesion of the clear coat."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 221,
+      "question": "During the entire refinishing process, what is a common factor that technicians must continuously monitor to ensure optimal results?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The speed of the repair process."
+        },
+        {
+          "label": "B",
+          "text": "The brand of the equipment only."
+        },
+        {
+          "label": "C",
+          "text": "The vehicle's mechanical performance."
+        },
+        {
+          "label": "D",
+          "text": "The consistency of repair material mixing and environmental conditions."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 222,
+      "question": "How does proper surface stripping contribute to the success of subsequent sanding operations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It softens the surface to allow for easier sanding."
+        },
+        {
+          "label": "B",
+          "text": "It removes previous coatings, creating a clean substrate for effective sanding."
+        },
+        {
+          "label": "C",
+          "text": "It eliminates the need for repair materials."
+        },
+        {
+          "label": "D",
+          "text": "It acts as a final step in surface preparation."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 223,
+      "question": "Which factor is most important when selecting a sanding grit for final surface preparation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The ambient noise level in the workshop."
+        },
+        {
+          "label": "B",
+          "text": "The type and severity of surface imperfections."
+        },
+        {
+          "label": "C",
+          "text": "The color of the surface."
+        },
+        {
+          "label": "D",
+          "text": "The size of the vehicle."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 224,
+      "question": "What advantage does using a dual-action sander provide during the post-refinishing phase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It increases the overall time needed for sanding."
+        },
+        {
+          "label": "B",
+          "text": "It creates an uneven surface texture."
+        },
+        {
+          "label": "C",
+          "text": "It eliminates the need for masking."
+        },
+        {
+          "label": "D",
+          "text": "It reduces the likelihood of swirl marks and provides a smoother finish."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 225,
+      "question": "When preparing the spray booth, why is controlling the airflow critical?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To create a draft that speeds up drying."
+        },
+        {
+          "label": "B",
+          "text": "To reduce the energy consumption of the equipment."
+        },
+        {
+          "label": "C",
+          "text": "To prevent the booth from overheating."
+        },
+        {
+          "label": "D",
+          "text": "To ensure that overspray is minimized and a consistent finish is achieved."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 226,
+      "question": "What is the consequence of applying repair materials without proper mixing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The material's color will be enhanced."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 3,
+      "question": "The repair may fail due to improper adhesion and reduced strength.",
+      "options": [
+        {
+          "label": "C",
+          "text": "The repair will be more flexible. O. The material will cure at the expected rate."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 227,
+      "question": "In refinishing procedures, why is it essential to periodically check equipment calibration and material consistency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To solely increase production speed."
+        },
+        {
+          "label": "B",
+          "text": "To reduce the cost of repair materials."
+        },
+        {
+          "label": "C",
+          "text": "To maintain a consistent finish quality and avoid variations between applications. D. To eliminate the need for post-refinishing corrections."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 228,
+      "question": "How does the integration of both chemical and mechanical surface preparation techniques benefit the refinishing process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It creates an overly rough surface that reduces finish quality."
+        },
+        {
+          "label": "B",
+          "text": "It eliminates the need for masking entirely."
+        },
+        {
+          "label": "C",
+          "text": "It prolongs the overall refinishing time with no quality improvement."
+        },
+        {
+          "label": "D",
+          "text": "It ensures a clean, uniformly textured surface for optimal adhesion of refinishing materials."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 229,
+      "question": "What is the most effective method for removing minor paint imperfections without damaging the vehicle's finish?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using a coarse abrasive pad to aggressively sand the area."
+        },
+        {
+          "label": "B",
+          "text": "Employing a dual-action polisher with a fine polishing compound."
+        },
+        {
+          "label": "C",
+          "text": "Applying a chemical solvent directly onto the defect."
+        },
+        {
+          "label": "D",
+          "text": "Blasting the area with a high-pressure water jet."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 230,
+      "question": "How does a dual-action polisher benefit the exterior detailing process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It creates swirl marks by generating excessive heat."
+        },
+        {
+          "label": "B",
+          "text": "It delivers uniform polishing while minimizing heat buildup."
+        },
+        {
+          "label": "C",
+          "text": "It applies a wax layer without any polishing effect."
+        },
+        {
+          "label": "D",
+          "text": "It removes both the clear coat and minor imperfections simultaneously."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 231,
+      "question": "What is the key consideration when touching up stone chip damage on a vehicle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using generic touch-up paint without verifying the color code."
+        },
+        {
+          "label": "B",
+          "text": "Thoroughly cleaning and prepping the chip area, then matching the OEM color before application."
+        },
+        {
+          "label": "C",
+          "text": "Filling the chip with body filler prior to painting."
+        },
+        {
+          "label": "D",
+          "text": "Ignoring metal exposure beneath the chip."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 232,
+      "question": "When detailing the exterior, which step is crucial to prevent water spots after washing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediately drying the surface with a microfiber towel."
+        },
+        {
+          "label": "B",
+          "text": "Allowing the vehicle to air dry naturally."
+        },
+        {
+          "label": "C",
+          "text": "Rinsing with high-pressure water without subsequent drying."
+        },
+        {
+          "label": "D",
+          "text": "Applying wax while the surface is still wet."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 233,
+      "question": "Which cleaning method is best for removing stubborn contaminants from a vehicle's exterior without harming the paint?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using a soft foam wash mitt with a pH-neutral car shampoo."
+        },
+        {
+          "label": "B",
+          "text": "Scrubbing with a stiff brush and abrasive detergent."
+        },
+        {
+          "label": "C",
+          "text": "Employing a high-pressure degreaser."
+        },
+        {
+          "label": "D",
+          "text": "Relying solely on water and a standard sponge."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 234,
+      "question": "What is the primary advantage of using a clay bar during exterior detailing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It removes excessive layers of paint along with contaminants."
+        },
+        {
+          "label": "B",
+          "text": "It effectively eliminates bonded contaminants without affecting the paint."
+        },
+        {
+          "label": "C",
+          "text": "It replaces the need for any waxing process."
+        },
+        {
+          "label": "D",
+          "text": "It enhances gloss without prior cleaning."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 235,
+      "question": "How does proper interior cleaning contribute to the overall quality of vehicle detailing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It only improves cosmetic appeal with minimal impact on material longevity."
+        },
+        {
+          "label": "B",
+          "text": "It enhances both aesthetic appeal and the long-term preservation of interior surfaces."
+        },
+        {
+          "label": "C",
+          "text": "It is secondary to exterior detailing and can be minimal."
+        },
+        {
+          "label": "D",
+          "text": "It focuses solely on vacuuming without surface cleaning."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 236,
+      "question": "What is a critical step in cleaning a vehicle's interior to effectively remove allergens and contaminants?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using a dry cloth for a quick wipe-down of surfaces."
+        },
+        {
+          "label": "B",
+          "text": "Employing a HEPA-filter vacuum and interior-safe cleaning agents."
+        },
+        {
+          "label": "C",
+          "text": "Simply airing out the vehicle for an extended period."
+        },
+        {
+          "label": "D",
+          "text": "Relying solely on water to clean all interior surfaces."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 237,
+      "question": "Which technique is most effective for cleaning intricate areas like air vents and dashboard crevices?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using a compressed air duster without caution."
+        },
+        {
+          "label": "B",
+          "text": "Wiping these areas with a standard cloth only."
+        },
+        {
+          "label": "C",
+          "text": "Utilizing soft-bristle brushes and compressed air, followed by careful cleaning with appropriate products."
+        },
+        {
+          "label": "D",
+          "text": "Ignoring these areas since they are less visible."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 238,
+      "question": "What is the recommended process for restoring a vehicle's shine through polishing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Relying on a single-step rotary buffer with a cutting compound."
+        },
+        {
+          "label": "B",
+          "text": "Using an orbital buffer with a two-step process: compounding to remove defects, then polishing to enhance gloss."
+        },
+        {
+          "label": "C",
+          "text": "Skipping compounding and applying polish directly."
+        },
+        {
+          "label": "D",
+          "text": "Depending solely on automated machine wash cycles."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 239,
+      "question": "Why is the use of microfiber towels essential during the drying and buffing stages of detailing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are more abrasive than traditional cloths."
+        },
+        {
+          "label": "B",
+          "text": "They reduce the risk of scratches and effectively trap dirt particles."
+        },
+        {
+          "label": "C",
+          "text": "They retain too much water, hindering complete drying."
+        },
+        {
+          "label": "D",
+          "text": "They are disposable and provide a rough finish."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 240,
+      "question": "What can result from neglecting proper interior cleaning during the detailing process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only a minor impact on the vehicle's resale value."
+        },
+        {
+          "label": "B",
+          "text": "Deterioration of interior materials, accumulation of allergens, and diminished aesthetic appeal."
+        },
+        {
+          "label": "C",
+          "text": "No significant issues if the exterior is thoroughly detailed."
+        },
+        {
+          "label": "D",
+          "text": "Problems limited solely to the dashboard area."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 241,
+      "question": "How should you remove a door trim panel to access the power window regulator?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Remove the trim panel, peel back the vapor barrier, then detach the glass."
+        },
+        {
+          "label": "B",
+          "text": "Remove the trim panel, detach the glass, then peel back the vapor barrier."
+        },
+        {
+          "label": "C",
+          "text": "Remove fastener covers and fasteners, partially remove the trim panel, disconnect electrical connections, then remove the vapor barrier."
+        },
+        {
+          "label": "D",
+          "text": "Release fastener covers and fasteners, fully remove the trim panel, disconnect electrical connections, then remove the vapor barrier."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 242,
+      "question": "Which adhesive is typically used for installing a heated windshield? A Non-conductive urethane.",
+      "options": [
+        {
+          "label": "B",
+          "text": "Polyurethane."
+        },
+        {
+          "label": "C",
+          "text": "Non-conductive silicone."
+        },
+        {
+          "label": "D",
+          "text": "Butyl tape."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 243,
+      "question": "Before working under a vehicle raised by a floor jack, what essential safety measure must be taken?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Secure the vehicle with jack stands."
+        },
+        {
+          "label": "B",
+          "text": "Remove the vehicle's wheels."
+        },
+        {
+          "label": "C",
+          "text": "Ensure the floor jack is locked in position."
+        },
+        {
+          "label": "D",
+          "text": "Support the vehicle with wooden blocks."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 244,
+      "question": "In a scenario where a unibody vehicle's front right corner is impacted, causing internal structural damage, how is the full extent of secondary damage assessed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By mounting centering gauges."
+        },
+        {
+          "label": "B",
+          "text": "By performing a 3D measurement."
+        },
+        {
+          "label": "C",
+          "text": "By using a tape and tram gauge for measurement."
+        },
+        {
+          "label": "D",
+          "text": "By comparing side-to-side measurements."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 245,
+      "question": "What is the proper process for reinstalling a body side molding after its removal and repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Remove the old adhesive, apply urethane adhesive, clean the surface, then reinstall the molding."
+        },
+        {
+          "label": "B",
+          "text": "Remove the old adhesive, apply an adhesion promoter to the molding, apply new adhesive, then reinstall the molding."
+        },
+        {
+          "label": "C",
+          "text": "Remove the old adhesive, apply an adhesion promoter to the panel, apply new adhesive, then reinstall the molding."
+        },
+        {
+          "label": "D",
+          "text": "Remove the old adhesive, clean the surface, apply new adhesive, then reinstall the molding."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 246,
+      "question": "How should one approach planning for collision damage repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rough out the most severe damage first."
+        },
+        {
+          "label": "B",
+          "text": "Analyze and determine the full extent of the damage."
+        },
+        {
+          "label": "C",
+          "text": "Estimate only the hidden damage."
+        },
+        {
+          "label": "D",
+          "text": "Focus solely on the visible damage."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 247,
+      "question": "If an electrical fuse repeatedly blows, what is the most likely cause?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An open circuit."
+        },
+        {
+          "label": "B",
+          "text": "A closed circuit."
+        },
+        {
+          "label": "C",
+          "text": "Insufficient amperage."
+        },
+        {
+          "label": "D",
+          "text": "A short to ground."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 248,
+      "question": "When replacing a front-frame rail on a unibody vehicle, where is the rail typically sectioned?",
+      "options": [
+        {
+          "label": "A",
+          "text": "In the center of a crush zone."
+        },
+        {
+          "label": "B",
+          "text": "At a suspension mounting point."
+        },
+        {
+          "label": "C",
+          "text": "At a dimensional reference hole."
+        },
+        {
+          "label": "D",
+          "text": "In front of a suspension mounting point."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 249,
+      "question": "In repairing a rusted area with a metal patch, which technique best maintains the panel's original contour while minimizing distortion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Remove the rusted section, shape the patch for a lap joint, then weld."
+        },
+        {
+          "label": "B",
+          "text": "Remove the rusted section, shape the patch for a butt joint, then weld."
+        },
+        {
+          "label": "C",
+          "text": "Remove the rusted section, flange the panel, shape the patch for a butt joint, then weld. D. Remove the rusted section, flange the panel, shape the patch for a lap joint, then weld."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 250,
+      "question": "How do you determine if a door opening has been distorted by a collision?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Create a cardboard template outlining the opening."
+        },
+        {
+          "label": "B",
+          "text": "Compare the dimensions of the left and right doors."
+        },
+        {
+          "label": "C",
+          "text": "Assess the freedom of movement of the window glass within the opening. D. Take multiple measurements from various points along the opening."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 251,
+      "question": "After a cooling system repair, antifreeze is found on the ground despite a successful pressure test. Which component is most likely defective?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heater core."
+        },
+        {
+          "label": "B",
+          "text": "Water pump seal."
+        },
+        {
+          "label": "C",
+          "text": "Heater hoses."
+        },
+        {
+          "label": "D",
+          "text": "Radiator cap."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 252,
+      "question": "What method prevents uneven sanding when repairing a large dent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Utilizing a long sanding block with a cross-hatch pattern."
+        },
+        {
+          "label": "B",
+          "text": "Using a short sanding block with long, even strokes."
+        },
+        {
+          "label": "C",
+          "text": "Using a long sanding block with long, even strokes."
+        },
+        {
+          "label": "D",
+          "text": "Using a short sanding block with a cross-hatch pattern."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 253,
+      "question": "Prior to masking a vehicle for primer-surfacer application, what final step should be taken?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wash the vehicle with soap and water."
+        },
+        {
+          "label": "B",
+          "text": "Blow and wipe the vehicle clean."
+        },
+        {
+          "label": "C",
+          "text": "Wipe the surface with a tack cloth."
+        },
+        {
+          "label": "D",
+          "text": "Wash the surface with thinner."
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 254,
+      "question": "When mixing self-etch primers in a well-ventilated area, which personal protective equipment is required?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rubber gloves and safety glasses."
+        },
+        {
+          "label": "B",
+          "text": "Nitrile gloves and a particle respirator."
+        },
+        {
+          "label": "C",
+          "text": "Nitrile gloves, coveralls, a charcoal respirator, and goggles."
+        },
+        {
+          "label": "D",
+          "text": "Latex gloves, coveralls, a charcoal respirator, and a face shield."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 255,
+      "question": "What is the best practice to prevent natural skin oils from affecting the quality of a paint job?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wear gloves while sanding or applying putty."
+        },
+        {
+          "label": "B",
+          "text": "Clean and prime only a small area at a time."
+        },
+        {
+          "label": "C",
+          "text": "Avoid touching surfaces that have been prepared for painting."
+        },
+        {
+          "label": "D",
+          "text": "Use power equipment exclusively instead of hand methods for finish sanding."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 256,
+      "question": "At what point should foam tape be removed from a spot repair after applying clear coat?",
+      "options": [
+        {
+          "label": "A",
+          "text": "After 24 hours of curing."
+        },
+        {
+          "label": "B",
+          "text": "After polishing the panel."
+        },
+        {
+          "label": "C",
+          "text": "Immediately following the bake cycle."
+        },
+        {
+          "label": "D",
+          "text": "Immediately after the final coat flashes."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 257,
+      "question": "What technique is used to eliminate minor orange peel on a clear coat finished panel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refinish the entire panel."
+        },
+        {
+          "label": "B",
+          "text": "Wet sand and polish the surface."
+        },
+        {
+          "label": "C",
+          "text": "Only polish the panel."
+        },
+        {
+          "label": "D",
+          "text": "Solely wet sand the panel."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 258,
+      "question": "In a 4-door sedan, where is the quarter panel most commonly sectioned?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Through the B-pillar."
+        },
+        {
+          "label": "B",
+          "text": "Through the C-pillar."
+        },
+        {
+          "label": "C",
+          "text": "Along the wheel housing."
+        },
+        {
+          "label": "D",
+          "text": "Vertically down the center."
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 259,
+      "question": "What gas mixture is standard for MIG welding mild steel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Argon and CO2."
+        },
+        {
+          "label": "B",
+          "text": "Argon and NO2."
+        },
+        {
+          "label": "C",
+          "text": "Acetylene and CO2."
+        },
+        {
+          "label": "D",
+          "text": "Argon and O2."
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 260,
+      "question": "Which welding technique is used for joining a thermoplastic bumper cover?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Solvent weld."
+        },
+        {
+          "label": "B",
+          "text": "Friction weld."
+        },
+        {
+          "label": "C",
+          "text": "Fusion weld."
+        },
+        {
+          "label": "D",
+          "text": "Adhesive weld."
+        }
+      ],
+      "correctAnswer": "C"
+    }
+  ],
+  "module2": [],
+  "module3": []
+}
