@@ -2,9 +2,23 @@ import { useState, useEffect } from 'react';
 import mcqsData from '../data/mcqs.json';
 
 function MCQTest({ moduleId, onBack }) {
-  const [currentPage, setCurrentPage] = useState(1);
-  const [userAnswers, setUserAnswers] = useState({});
-  const [validatedPages, setValidatedPages] = useState({});
+  const storageKey = `mcq_module${moduleId}`;
+  
+  const [currentPage, setCurrentPage] = useState(() => {
+    const saved = localStorage.getItem(`${storageKey}_currentPage`);
+    return saved ? parseInt(saved) : 1;
+  });
+  
+  const [userAnswers, setUserAnswers] = useState(() => {
+    const saved = localStorage.getItem(`${storageKey}_answers`);
+    return saved ? JSON.parse(saved) : {};
+  });
+  
+  const [validatedPages, setValidatedPages] = useState(() => {
+    const saved = localStorage.getItem(`${storageKey}_validated`);
+    return saved ? JSON.parse(saved) : {};
+  });
+  
   const questionsPerPage = 30;
 
   const mcqs = mcqsData[`module${moduleId}`] || [];
@@ -14,11 +28,41 @@ function MCQTest({ moduleId, onBack }) {
   const endIndex = startIndex + questionsPerPage;
   const currentQuestions = mcqs.slice(startIndex, endIndex);
 
+  // Save to localStorage whenever state changes
+  useEffect(() => {
+    localStorage.setItem(`${storageKey}_currentPage`, currentPage);
+  }, [currentPage, storageKey]);
+
+  useEffect(() => {
+    localStorage.setItem(`${storageKey}_answers`, JSON.stringify(userAnswers));
+  }, [userAnswers, storageKey]);
+
+  useEffect(() => {
+    localStorage.setItem(`${storageKey}_validated`, JSON.stringify(validatedPages));
+  }, [validatedPages, storageKey]);
+
   const handleAnswerSelect = (questionId, answer) => {
     setUserAnswers(prev => ({
       ...prev,
       [questionId]: answer
     }));
+  };
+
+  const handleClearPage = () => {
+    if (window.confirm('Are you sure you want to clear all answers on this page?')) {
+      const currentPageQuestions = currentQuestions.map(q => q.id);
+      const newAnswers = { ...userAnswers };
+      
+      currentPageQuestions.forEach(id => {
+        delete newAnswers[id];
+      });
+      
+      setUserAnswers(newAnswers);
+      
+      const newValidated = { ...validatedPages };
+      delete newValidated[currentPage];
+      setValidatedPages(newValidated);
+    }
   };
 
   const handleValidate = () => {
@@ -198,7 +242,7 @@ function MCQTest({ moduleId, onBack }) {
         </div>
 
         {/* Action Buttons */}
-        <div className="d-flex justify-content-between align-items-center mb-4">
+        <div className="d-flex justify-content-between align-items-center mb-4 flex-wrap gap-3">
           <button
             className="btn btn-outline-dark"
             onClick={() => setCurrentPage(prev => Math.max(1, prev - 1))}
@@ -212,20 +256,34 @@ function MCQTest({ moduleId, onBack }) {
             ← Previous
           </button>
 
-          {!isPageValidated && (
+          <div className="d-flex gap-2">
+            {!isPageValidated && (
+              <button
+                className="btn btn-dark"
+                onClick={handleValidate}
+                style={{
+                  borderRadius: '8px',
+                  backgroundColor: '#1a1a1a',
+                  border: 'none',
+                  padding: '12px 32px'
+                }}
+              >
+                Validate Answers
+              </button>
+            )}
+            
             <button
-              className="btn btn-dark"
-              onClick={handleValidate}
+              className="btn btn-outline-danger"
+              onClick={handleClearPage}
               style={{
                 borderRadius: '8px',
-                backgroundColor: '#1a1a1a',
-                border: 'none',
-                padding: '12px 32px'
+                border: '2px solid #dc3545',
+                padding: '12px 24px'
               }}
             >
-              Validate Answers
+              Clear Page
             </button>
-          )}
+          </div>
 
           <button
             className="btn btn-outline-dark"

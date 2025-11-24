@@ -1,13 +1,39 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Login from './components/Login'
 import Modules from './components/Modules'
 import MCQTest from './components/MCQTest'
 import './App.css'
 
 function App() {
-  const [isAuthenticated, setIsAuthenticated] = useState(false)
-  const [currentView, setCurrentView] = useState('modules') // 'modules' or 'test'
-  const [selectedModule, setSelectedModule] = useState(null)
+  const [isAuthenticated, setIsAuthenticated] = useState(() => {
+    return localStorage.getItem('isAuthenticated') === 'true'
+  })
+  const [currentView, setCurrentView] = useState(() => {
+    return localStorage.getItem('currentView') || 'modules'
+  })
+  const [selectedModule, setSelectedModule] = useState(() => {
+    const saved = localStorage.getItem('selectedModule')
+    return saved ? parseInt(saved) : null
+  })
+
+  // Persist authentication state
+  useEffect(() => {
+    localStorage.setItem('isAuthenticated', isAuthenticated)
+  }, [isAuthenticated])
+
+  // Persist current view
+  useEffect(() => {
+    localStorage.setItem('currentView', currentView)
+  }, [currentView])
+
+  // Persist selected module
+  useEffect(() => {
+    if (selectedModule) {
+      localStorage.setItem('selectedModule', selectedModule)
+    } else {
+      localStorage.removeItem('selectedModule')
+    }
+  }, [selectedModule])
 
   const handleLogin = () => {
     setIsAuthenticated(true)
@@ -17,6 +43,7 @@ function App() {
     setIsAuthenticated(false)
     setCurrentView('modules')
     setSelectedModule(null)
+    localStorage.clear()
   }
 
   const handleSelectModule = (moduleId) => {

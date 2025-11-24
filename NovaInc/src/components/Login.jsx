@@ -17,16 +17,25 @@ function Login({ onLogin }) {
   };
 
   return (
-    <div className="min-vh-100 d-flex align-items-center justify-content-center bg-white">
+    <div className="min-vh-100 d-flex align-items-center justify-content-center" style={{ backgroundColor: '#f8f9fa' }}>
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-md-5 col-lg-4">
-            <div className="text-center mb-5">
-              <h1 className="fw-bold mb-2" style={{ color: '#1a1a1a' }}>MCQ Prep</h1>
-              <p className="text-muted">Sign in to continue</p>
-            </div>
+            <div 
+              className="card shadow-sm"
+              style={{
+                border: '2px solid #e5e5e5',
+                borderRadius: '16px',
+                overflow: 'hidden'
+              }}
+            >
+              <div className="card-body p-5">
+                <div className="text-center mb-5">
+                  <h1 className="fw-bold mb-2" style={{ color: '#1a1a1a' }}>MCQ Prep</h1>
+                  <p className="text-muted">Sign in to continue</p>
+                </div>
 
-            <form onSubmit={handleSubmit}>
+                <form onSubmit={handleSubmit}>
               <div className="mb-4">
                 <label htmlFor="username" className="form-label fw-medium" style={{ color: '#1a1a1a' }}>
                   Username
@@ -86,12 +95,14 @@ function Login({ onLogin }) {
                 Sign In
               </button>
 
-              <div className="text-center mt-4">
-                <small className="text-muted">
-                  Demo credentials: admin / admin
-                </small>
+                  <div className="text-center mt-4">
+                    <small className="text-muted">
+                      Demo credentials: admin / admin
+                    </small>
+                  </div>
+                </form>
               </div>
-            </form>
+            </div>
           </div>
         </div>
       </div>

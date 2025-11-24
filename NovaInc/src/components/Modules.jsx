@@ -1,8 +1,8 @@
 function Modules({ onSelectModule, onLogout }) {
   const modules = [
     { id: 1, name: 'Module 1', description: 'Auto Body Repair Safety & Tools', available: true, count: 261 },
-    { id: 2, name: 'Module 2', description: 'Coming Soon', available: false, count: 0 },
-    { id: 3, name: 'Module 3', description: 'Coming Soon', available: false, count: 0 }
+    { id: 2, name: 'Module 2', description: '', available: false, count: 0 },
+    { id: 3, name: 'Module 3', description: '', available: false, count: 0 }
   ];
 
   return (
