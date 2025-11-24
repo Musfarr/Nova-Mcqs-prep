@@ -20,7 +20,7 @@ function Login({ onLogin }) {
     <div className="min-vh-100 d-flex align-items-center justify-content-center" style={{ backgroundColor: '#f8f9fa' }}>
       <div className="container">
         <div className="row justify-content-center">
-          <div className="col-md-5 col-lg-4">
+          <div className="col-md-5 col-lg-5">
             <div 
               className="card shadow-sm"
               style={{
@@ -31,7 +31,7 @@ function Login({ onLogin }) {
             >
               <div className="card-body p-5">
                 <div className="text-center mb-5">
-                  <h1 className="fw-bold mb-2" style={{ color: '#1a1a1a' }}>MCQ Prep</h1>
+                  <h1 className="fw-bold mb-2" style={{ color: '#1a1a1a' }}>Nova Inc</h1>
                   <p className="text-muted">Sign in to continue</p>
                 </div>
 
@@ -97,7 +97,7 @@ function Login({ onLogin }) {
 
                   <div className="text-center mt-4">
                     <small className="text-muted">
-                      Demo credentials: admin / admin
+                      {/* Demo credentials: admin / admin */}
                     </small>
                   </div>
                 </form>
