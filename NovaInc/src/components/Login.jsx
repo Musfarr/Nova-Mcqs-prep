@@ -31,7 +31,7 @@ function Login({ onLogin }) {
             >
               <div className="card-body p-5">
                 <div className="text-center mb-5">
-                  <h1 className="fw-bold mb-2" style={{ color: '#1a1a1a' }}>Nova Inc</h1>
+                  <h1 className="fw-bold mb-2" style={{ color: '#1a1a1a' }}>MCQS PORTAL</h1>
                   <p className="text-muted">Sign in to continue</p>
                 </div>
 
