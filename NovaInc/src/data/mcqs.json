@@ -21,7 +21,7 @@
           "text": "Continue working while others clear the area."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 2,
@@ -67,7 +67,7 @@
           "text": "Relying on natural lighting to spot hazards."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 4,
@@ -90,7 +90,7 @@
           "text": "Cleaning the diagnostic equipment thoroughly."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 5,
@@ -113,7 +113,7 @@
           "text": "Replacing them on a fixed annual schedule regardless of condition."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 6,
@@ -136,7 +136,7 @@
           "text": "By adjusting measurements based on visual estimates alone."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 7,
@@ -159,7 +159,7 @@
           "text": "The speed at which the vehicle is lifted."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 8,
@@ -205,7 +205,7 @@
           "text": "Delaying cleaning until equipment malfunctions occur."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 10,
@@ -224,7 +224,7 @@
           "text": "Using outdated, uncalibrated equipment to test durability."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 11,
@@ -247,7 +247,7 @@
           "text": "Operating the equipment continuously to detect faults."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 12,
@@ -270,7 +270,7 @@
           "text": "Only a minor reduction in welding speed."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 13,
@@ -293,7 +293,7 @@
           "text": "Previous repair invoices from unrelated jobs."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 14,
@@ -339,7 +339,7 @@
           "text": "It provides a clear reference for parts, procedures, and modifications."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 16,
@@ -358,7 +358,7 @@
           "text": "Personal opinions about the quality of previous repairs."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 17,
@@ -496,7 +496,7 @@
           "text": "Removing trim without referring to the repair manual."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "C"
     },
     {
       "id": 23,
@@ -538,7 +538,7 @@
           "text": "By focusing solely on structural components while ignoring others."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 25,
@@ -561,7 +561,7 @@
           "text": "Checking that all replaced and repaired components are securely fastened and correctly aligned."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 26,
@@ -603,7 +603,7 @@
           "text": "Relying solely on the metal's inherent corrosion resistance."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 28,
@@ -622,7 +622,7 @@
           "text": "Using excessive material without proper measurement."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 29,
@@ -668,7 +668,7 @@
           "text": "They eliminate the need for a final inspection before delivery."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 31,
@@ -706,7 +706,7 @@
           "text": "Remove the components without disconnecting any attached wiring"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 33,
@@ -775,7 +775,7 @@
           "text": "Overlooking the impact on adjacent parts during removal"
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 36,
@@ -798,7 +798,7 @@
           "text": "It minimizes the need for subsequent component replacement"
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 37,
@@ -821,7 +821,7 @@
           "text": "Relying solely on technician intuition"
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 38,
@@ -844,7 +844,7 @@
           "text": "It replaces the necessity for skilled technicians"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 39,
@@ -867,7 +867,7 @@
           "text": "By cutting the components without following manufacturer guidelines"
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 40,
@@ -890,7 +890,7 @@
           "text": "Regularly checking alignment with calibrated tools and reference fixtures"
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 41,
@@ -913,7 +913,7 @@
           "text": "A handheld magnetic sensor"
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 42,
@@ -936,7 +936,7 @@
           "text": "It guarantees that non-factory parts are used appropriately"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 43,
@@ -951,7 +951,7 @@
           "text": "It minimizes repair time by skipping unnecessary steps D. It is solely done for post-repair documentation purposes"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 44,
@@ -974,7 +974,7 @@
           "text": "Following outdated repair procedures regardless of the current damage"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 45,
@@ -993,7 +993,7 @@
           "text": "They replace the need for modern diagnostic tools D. They are used mainly for aesthetic alignment only"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 46,
@@ -1016,7 +1016,7 @@
           "text": "Skipping safety checks to save time"
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 47,
@@ -1062,7 +1062,7 @@
           "text": "It enables accurate planning of repair procedures and ensures overall safety"
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "D"
     },
     {
       "id": 49,
@@ -1108,7 +1108,7 @@
           "text": "Relying solely on a visual check without measurements."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 51,
@@ -1177,7 +1177,7 @@
           "text": "By ignoring the crack if it appears minor"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 54,
@@ -1200,7 +1200,7 @@
           "text": "Relying solely on technician memory of the original setup"
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 55,
@@ -1223,7 +1223,7 @@
           "text": "Skipping tests if the repair appears satisfactory"
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 56,
@@ -1246,7 +1246,7 @@
           "text": "Skipping alignment verification to speed up installation"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 57,
@@ -1269,7 +1269,7 @@
           "text": "By employing specialized metal stretching and bending techniques to restore original geometry"
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 58,
@@ -1292,7 +1292,7 @@
           "text": "It is determined solely by the technician's personal preference"
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "C"
     },
     {
       "id": 59,
@@ -1315,7 +1315,7 @@
           "text": "They have no significant impact on performance"
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 60,
@@ -1338,7 +1338,7 @@
           "text": "Relying on manual adjustments without precise measurements"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 61,
@@ -1361,7 +1361,7 @@
           "text": "To allow for later cosmetic adjustments"
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 62,
@@ -1380,7 +1380,7 @@
           "text": "They serve only as post-repair documentation tools"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 63,
@@ -1449,7 +1449,7 @@
           "text": "Using uncalibrated tools for speed"
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 66,
@@ -1468,7 +1468,7 @@
           "text": "They provide detailed insights into internal damage, enabling targeted repair strategies D. They serve mainly for inventory management purposes"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "C"
     },
     {
       "id": 67,
@@ -1491,7 +1491,7 @@
           "text": "Replace the component without further verification"
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 68,
@@ -1556,7 +1556,7 @@
           "text": "Employing temporary supports that are removed immediately after installation"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 71,
@@ -1598,7 +1598,7 @@
           "text": "Breaking the glass intentionally to remove it in pieces"
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 73,
@@ -1644,7 +1644,7 @@
           "text": "Skipping the alignment process to expedite installation"
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 75,
@@ -1667,7 +1667,7 @@
           "text": "Utilizing specialized adhesives to bond the separated layers without replacing the entire assembly X"
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 76,
@@ -1690,7 +1690,7 @@
           "text": "Laminated glass does not require any special removal techniques"
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 77,
@@ -1713,7 +1713,7 @@
           "text": "Skipping tests if the repair appears visually sound"
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 78,
@@ -1736,7 +1736,7 @@
           "text": "Applying an incorrect sealant for the installation process"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 79,
@@ -1805,7 +1805,7 @@
           "text": "Applying excessive heat to burn off the adhesive residue"
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 82,
@@ -1828,7 +1828,7 @@
           "text": "It eliminates the need for personal protective equipment"
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "C"
     },
     {
       "id": 83,
@@ -1847,7 +1847,7 @@
           "text": "Its low cost compared to complete glass replacement"
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 84,
@@ -1866,7 +1866,7 @@
           "text": "Installing structural glass does not require adhesive bonding"
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 85,
@@ -1881,7 +1881,7 @@
           "text": "By conducting impact tests and thorough visual inspections to ensure proper adhesion and clarity"
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 86,
@@ -1973,7 +1973,7 @@
           "text": "Replacing the entire panel without attempting repair."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 90,
@@ -2042,7 +2042,7 @@
           "text": "Running the equipment without additional ventilation."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 93,
@@ -2065,7 +2065,7 @@
           "text": "The ease of application regardless of performance."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 94,
@@ -2088,7 +2088,7 @@
           "text": "It acts as a solvent for the filler material."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 95,
@@ -2111,7 +2111,7 @@
           "text": "It is unnecessary for small repair areas."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 96,
@@ -2134,7 +2134,7 @@
           "text": "It allows for more flexible panel alignment."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 97,
@@ -2180,7 +2180,7 @@
           "text": "It is applicable only to plastic panels."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 99,
@@ -2226,7 +2226,7 @@
           "text": "Completely avoiding any use of heat."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 101,
@@ -2249,7 +2249,7 @@
           "text": "It is best done after reinstallation."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 102,
@@ -2272,7 +2272,7 @@
           "text": "Conducting a detailed quality inspection and verifying measurements."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "D"
     },
     {
       "id": 103,
@@ -2318,7 +2318,7 @@
           "text": "Cutting through the panel completely with a saw."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "C"
     },
     {
       "id": 105,
@@ -2387,7 +2387,7 @@
           "text": "The adhesive's color matching properties."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 108,
@@ -2433,7 +2433,7 @@
           "text": "Replacing the panel without attempting repair."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 110,
@@ -2456,7 +2456,7 @@
           "text": "Using open flames without protective barriers."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 111,
@@ -2475,7 +2475,7 @@
           "text": "Ignoring surface preparation entirely."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 112,
@@ -2494,7 +2494,7 @@
           "text": "Following detailed disassembly instructions and using appropriate trim removal tools D. Pulling the panel off without detaching connectors."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "C"
     },
     {
       "id": 113,
@@ -2517,7 +2517,7 @@
           "text": "By skipping the reinstallation process altogether."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 114,
@@ -2559,7 +2559,7 @@
           "text": "The repair shop's current workload."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 116,
@@ -2578,7 +2578,7 @@
           "text": "It is unnecessary if fillers are used."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 117,
@@ -2601,7 +2601,7 @@
           "text": "Using metal fillers to smooth the surface."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 118,
@@ -2624,7 +2624,7 @@
           "text": "It makes the surface too smooth for proper bonding."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 119,
@@ -2647,7 +2647,7 @@
           "text": "By ignoring manufacturer recommendations entirely."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 120,
@@ -2670,7 +2670,7 @@
           "text": "Skipping the sanding process to expedite the repair."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 121,
@@ -2693,7 +2693,7 @@
           "text": "They are used only for their aesthetic appeal."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 122,
@@ -2716,7 +2716,7 @@
           "text": "The vehicle owner's personal preference."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 123,
@@ -2739,7 +2739,7 @@
           "text": "Using excessive heat to loosen the glass."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "C"
     },
     {
       "id": 124,
@@ -2762,7 +2762,7 @@
           "text": "Specialized glass removal tools designed to minimize stress on the glass."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 125,
@@ -2785,7 +2785,7 @@
           "text": "Rely on previous installation marks without further preparation."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 126,
@@ -2808,7 +2808,7 @@
           "text": "Relying on a pre-installed template exclusively."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "C"
     },
     {
       "id": 127,
@@ -2831,7 +2831,7 @@
           "text": "To create a weatherproof barrier and prevent water intrusion."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "D"
     },
     {
       "id": 128,
@@ -2854,7 +2854,7 @@
           "text": "By skipping the cleaning of the bonding surface."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 129,
@@ -2877,7 +2877,7 @@
           "text": "Failing to properly support the glass, which may lead to breakage."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "D"
     },
     {
       "id": 130,
@@ -2896,7 +2896,7 @@
           "text": "Wrapping the glass in protective material and using proper lifting equipment. D. Storing the glass loosely in a crowded area."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "C"
     },
     {
       "id": 131,
@@ -2919,7 +2919,7 @@
           "text": "It is optional and rarely influences the outcome."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 132,
@@ -2988,7 +2988,7 @@
           "text": "Relying solely on previous installation records."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 135,
@@ -3011,7 +3011,7 @@
           "text": "Drain all associated fluids."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 136,
@@ -3034,7 +3034,7 @@
           "text": "Conduct a comprehensive leak test, calibrate sensors, and verify valve operations."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 137,
@@ -3057,7 +3057,7 @@
           "text": "Disabling only the fuel supply line."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 138,
@@ -3080,7 +3080,7 @@
           "text": "To reduce the system's overall weight."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 139,
@@ -3103,7 +3103,7 @@
           "text": "A thermal imaging camera."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 140,
@@ -3126,7 +3126,7 @@
           "text": "That system wiring has been rerouted for performance upgrades."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "C"
     },
     {
       "id": 141,
@@ -3149,7 +3149,7 @@
           "text": "To accelerate the repair process."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 142,
@@ -3172,7 +3172,7 @@
           "text": "Resetting the vehicle's entertainment system."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 143,
@@ -3237,7 +3237,7 @@
           "text": "Draining the hydraulic fluid and relieving pressure before disconnection. D. Securing the component with clamps while leaving the fluid intact."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "C"
     },
     {
       "id": 146,
@@ -3260,7 +3260,7 @@
           "text": "To verify alignment and ensure compatibility with adjacent parts."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 147,
@@ -3283,7 +3283,7 @@
           "text": "A verbal description provided by a colleague."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 148,
@@ -3306,7 +3306,7 @@
           "text": "They are used solely for aesthetic adjustments."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 149,
@@ -3329,7 +3329,7 @@
           "text": "Using non-insulated tools to expedite the removal process."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 150,
@@ -3344,7 +3344,7 @@
           "text": "Using proper connectors and insulating materials after cleaning the damaged area. C. Simply wrapping the wires with electrical tape without removing the damaged section. D. Bypassing the damaged section entirely."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 151,
@@ -3367,7 +3367,7 @@
           "text": "By depending on previous repair records."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 152,
@@ -3390,7 +3390,7 @@
           "text": "An automotive diagnostic scanner that reads error codes and sensor data."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "D"
     },
     {
       "id": 153,
@@ -3436,7 +3436,7 @@
           "text": "To speed up the installation process regardless of accuracy."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 155,
@@ -3455,7 +3455,7 @@
           "text": "It prevents chafing, reduces electromagnetic interference, and enhances overall reliability."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "D"
     },
     {
       "id": 156,
@@ -3478,7 +3478,7 @@
           "text": "It unnecessarily increases the wire's resistance."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 157,
@@ -3501,7 +3501,7 @@
           "text": "Updating the software/firmware and running diagnostic tests per manufacturer guidelines."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 158,
@@ -3524,7 +3524,7 @@
           "text": "Replace all wiring without isolating the specific fault."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 159,
@@ -3570,7 +3570,7 @@
           "text": "Verify all connections using a diagnostic scanner and perform a functional system test."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 161,
@@ -3589,7 +3589,7 @@
           "text": "Carefully disconnecting all electrical connections and labeling wires before removal. D. Heating the panel excessively to loosen adhesives."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "C"
     },
     {
       "id": 162,
@@ -3612,7 +3612,7 @@
           "text": "Skipping the reinstallation of electrical connectors."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "C"
     },
     {
       "id": 163,
@@ -3654,7 +3654,7 @@
           "text": "Ignoring the crack if it does not affect functionality."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 165,
@@ -3677,7 +3677,7 @@
           "text": "Bypassing safety precautions to expedite the repair."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 166,
@@ -3700,7 +3700,7 @@
           "text": "Performing a manual deployment test on the road."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "C"
     },
     {
       "id": 167,
@@ -3723,7 +3723,7 @@
           "text": "Removing the assembly, disconnecting electrical connections if applicable, and installing the new unit following manufacturer guidelines."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 168,
@@ -3769,7 +3769,7 @@
           "text": "Replacing the entire trim assembly even for minor damage."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "C"
     },
     {
       "id": 170,
@@ -3792,7 +3792,7 @@
           "text": "Light sanding combined with a touch-up paint application to restore the finish."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 171,
@@ -3815,7 +3815,7 @@
           "text": "Relying on trial and error during installation."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 172,
@@ -3838,7 +3838,7 @@
           "text": "Ignoring minor tears if they do not affect seating comfort."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "A"
     },
     {
       "id": 173,
@@ -3861,7 +3861,7 @@
           "text": "Manually testing the retractor mechanism for correct tension and lock function."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "D"
     },
     {
       "id": 174,
@@ -3884,7 +3884,7 @@
           "text": "Bypassing the light switch entirely during testing."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 175,
@@ -3926,7 +3926,7 @@
           "text": "Personal recollection of previous repairs."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 177,
@@ -3995,7 +3995,7 @@
           "text": "The absence of fault codes during a comprehensive system self-test."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 180,
@@ -4014,7 +4014,7 @@
           "text": "Installing components without verifying alignment."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 181,
@@ -4037,7 +4037,7 @@
           "text": "Ignoring sensor placement during repairs."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "C"
     },
     {
       "id": 182,
@@ -4060,7 +4060,7 @@
           "text": "Restarting the vehicle without any further testing."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 183,
@@ -4083,7 +4083,7 @@
           "text": "Identifying worn or loose mounting hardware and securing or replacing it as needed."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 184,
@@ -4106,7 +4106,7 @@
           "text": "A thermal imaging camera."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "C"
     },
     {
       "id": 185,
@@ -4129,7 +4129,7 @@
           "text": "Skipping sanding to reduce preparation time."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 186,
@@ -4152,7 +4152,7 @@
           "text": "To speed up the drying time."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "C"
     },
     {
       "id": 187,
@@ -4175,7 +4175,7 @@
           "text": "Using a heat gun exclusively to burn off old coatings."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 188,
@@ -4198,7 +4198,7 @@
           "text": "It permanently removes all surface imperfections."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "C"
     },
     {
       "id": 189,
@@ -4221,7 +4221,7 @@
           "text": "Adding water to speed up the reaction."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 190,
@@ -4244,7 +4244,7 @@
           "text": "Using an unapproved filler material."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 191,
@@ -4267,7 +4267,7 @@
           "text": "Ensuring proper ventilation and air filtration systems are in place."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 192,
@@ -4290,7 +4290,7 @@
           "text": "Adjusting the air pressure and fluid flow to achieve a consistent spray pattern."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 193,
@@ -4313,7 +4313,7 @@
           "text": "It allows the use of lower quality materials."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 194,
@@ -4336,7 +4336,7 @@
           "text": "Adding a small amount of tint and testing on a sample panel."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 195,
@@ -4382,7 +4382,7 @@
           "text": "Maintaining proper application distance and using consistent overlapping strokes."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "D"
     },
     {
       "id": 197,
@@ -4405,7 +4405,7 @@
           "text": "Spraying at a consistent speed and angle while maintaining appropriate distance from the surface."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "D"
     },
     {
       "id": 198,
@@ -4428,7 +4428,7 @@
           "text": "Ensuring the base coat is fully cured and free of imperfections before application."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 199,
@@ -4451,7 +4451,7 @@
           "text": "To reveal the final finish without causing damage or leaving adhesive residues."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 200,
@@ -4474,7 +4474,7 @@
           "text": "Applying a corrective compound followed by light sanding and buffing."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 201,
@@ -4489,7 +4489,7 @@
           "text": "Using a mild detergent and soft cloth. C. Sandblasting combined with hand-sanding. D. High-pressure steam cleaning."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "C"
     },
     {
       "id": 202,
@@ -4558,7 +4558,7 @@
           "text": "Immediate curing with no negative effects."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 205,
@@ -4600,7 +4600,7 @@
           "text": "Mixing in a well-ventilated area and wearing appropriate PPE."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 207,
@@ -4623,7 +4623,7 @@
           "text": "The brand of the spray gun."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 208,
@@ -4646,7 +4646,7 @@
           "text": "It reduces the need for masking."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "C"
     },
     {
       "id": 209,
@@ -4807,7 +4807,7 @@
           "text": "The time of day."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "C"
     },
     {
       "id": 216,
@@ -4830,7 +4830,7 @@
           "text": "To provide a protective, glossy finish that enhances durability and UV resistance."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "D"
     },
     {
       "id": 217,
@@ -4964,7 +4964,7 @@
           "text": "It acts as a final step in surface preparation."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 223,
@@ -4987,7 +4987,7 @@
           "text": "The size of the vehicle."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 224,
@@ -5010,7 +5010,7 @@
           "text": "It reduces the likelihood of swirl marks and provides a smoother finish."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 225,
@@ -5044,7 +5044,7 @@
           "text": "The material's color will be enhanced."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 3,
@@ -5074,7 +5074,7 @@
           "text": "To maintain a consistent finish quality and avoid variations between applications. D. To eliminate the need for post-refinishing corrections."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "C"
     },
     {
       "id": 228,
@@ -5097,7 +5097,7 @@
           "text": "It ensures a clean, uniformly textured surface for optimal adhesion of refinishing materials."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 229,
@@ -5120,7 +5120,7 @@
           "text": "Blasting the area with a high-pressure water jet."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 230,
@@ -5143,7 +5143,7 @@
           "text": "It removes both the clear coat and minor imperfections simultaneously."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 231,
@@ -5166,7 +5166,7 @@
           "text": "Ignoring metal exposure beneath the chip."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 232,
@@ -5189,7 +5189,7 @@
           "text": "Applying wax while the surface is still wet."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "A"
     },
     {
       "id": 233,
@@ -5212,7 +5212,7 @@
           "text": "Relying solely on water and a standard sponge."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 234,
@@ -5235,7 +5235,7 @@
           "text": "It enhances gloss without prior cleaning."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 235,
@@ -5258,7 +5258,7 @@
           "text": "It focuses solely on vacuuming without surface cleaning."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 236,
@@ -5281,7 +5281,7 @@
           "text": "Relying solely on water to clean all interior surfaces."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 237,
@@ -5327,7 +5327,7 @@
           "text": "Depending solely on automated machine wash cycles."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 239,
@@ -5350,7 +5350,7 @@
           "text": "They are disposable and provide a rough finish."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 240,
@@ -5373,7 +5373,7 @@
           "text": "Problems limited solely to the dashboard area."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 241,
@@ -5396,7 +5396,7 @@
           "text": "Release fastener covers and fasteners, fully remove the trim panel, disconnect electrical connections, then remove the vapor barrier."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 242,
@@ -5438,7 +5438,7 @@
           "text": "Support the vehicle with wooden blocks."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 244,
@@ -5484,7 +5484,7 @@
           "text": "Remove the old adhesive, clean the surface, apply new adhesive, then reinstall the molding."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "B"
     },
     {
       "id": 246,
@@ -5507,7 +5507,7 @@
           "text": "Focus solely on the visible damage."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 247,
@@ -5530,7 +5530,7 @@
           "text": "A short to ground."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 248,
@@ -5553,7 +5553,7 @@
           "text": "In front of a suspension mounting point."
         }
       ],
-      "correctAnswer": "B"
+      "correctAnswer": "D"
     },
     {
       "id": 249,
@@ -5572,7 +5572,7 @@
           "text": "Remove the rusted section, flange the panel, shape the patch for a butt joint, then weld. D. Remove the rusted section, flange the panel, shape the patch for a lap joint, then weld."
         }
       ],
-      "correctAnswer": "A"
+      "correctAnswer": "D"
     },
     {
       "id": 250,
@@ -5614,7 +5614,7 @@
           "text": "Radiator cap."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "D"
     },
     {
       "id": 252,
@@ -5637,7 +5637,7 @@
           "text": "Using a short sanding block with a cross-hatch pattern."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 253,
@@ -5752,7 +5752,7 @@
           "text": "Solely wet sand the panel."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "B"
     },
     {
       "id": 258,
@@ -5775,7 +5775,7 @@
           "text": "Vertically down the center."
         }
       ],
-      "correctAnswer": "D"
+      "correctAnswer": "B"
     },
     {
       "id": 259,
@@ -5798,7 +5798,7 @@
           "text": "Argon and O2."
         }
       ],
-      "correctAnswer": "C"
+      "correctAnswer": "A"
     },
     {
       "id": 260,
