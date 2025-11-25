@@ -11,7 +11,7 @@ function Modules({ onSelectModule, onLogout }) {
       <nav className="border-bottom" style={{ borderColor: '#e5e5e5' }}>
         <div className="container py-3">
           <div className="d-flex justify-content-between align-items-center">
-            <h2 className="fw-bold mb-0" style={{ color: '#1a1a1a' }}>MCQ Prep</h2>
+            <h2 className="fw-bold mb-0" style={{ color: '#1a1a1a' }}>MCQS Prep</h2>
             <button
               onClick={onLogout}
               className="btn btn-outline-dark"

@@ -14,11 +14,6 @@ function MCQTest({ moduleId, onBack }) {
     return saved ? JSON.parse(saved) : {};
   });
   
-  const [validatedPages, setValidatedPages] = useState(() => {
-    const saved = localStorage.getItem(`${storageKey}_validated`);
-    return saved ? JSON.parse(saved) : {};
-  });
-  
   const questionsPerPage = 30;
 
   const mcqs = mcqsData[`module${moduleId}`] || [];
@@ -37,10 +32,6 @@ function MCQTest({ moduleId, onBack }) {
     localStorage.setItem(`${storageKey}_answers`, JSON.stringify(userAnswers));
   }, [userAnswers, storageKey]);
 
-  useEffect(() => {
-    localStorage.setItem(`${storageKey}_validated`, JSON.stringify(validatedPages));
-  }, [validatedPages, storageKey]);
-
   const handleAnswerSelect = (questionId, answer) => {
     setUserAnswers(prev => ({
       ...prev,
@@ -58,36 +49,17 @@ function MCQTest({ moduleId, onBack }) {
       });
       
       setUserAnswers(newAnswers);
-      
-      const newValidated = { ...validatedPages };
-      delete newValidated[currentPage];
-      setValidatedPages(newValidated);
     }
   };
-
-  const handleValidate = () => {
-    const currentPageQuestions = currentQuestions.map(q => q.id);
-    const allAnswered = currentPageQuestions.every(id => userAnswers[id]);
-
-    if (!allAnswered) {
-      alert('Please answer all questions on this page before validating.');
-      return;
-    }
-
-    setValidatedPages(prev => ({
-      ...prev,
-      [currentPage]: true
-    }));
-  };
-
-  const isPageValidated = validatedPages[currentPage];
 
   const getAnswerClass = (questionId, optionLabel) => {
-    if (!isPageValidated) return '';
-
     const question = currentQuestions.find(q => q.id === questionId);
+    if (!question) return '';
+
     const userAnswer = userAnswers[questionId];
     const correctAnswer = question.correctAnswer;
+
+    if (!userAnswer) return '';
 
     if (optionLabel === correctAnswer) {
       return 'border-success bg-success bg-opacity-10';
@@ -101,15 +73,19 @@ function MCQTest({ moduleId, onBack }) {
   };
 
   const getStats = () => {
-    if (!isPageValidated) return null;
-
     const currentPageQuestions = currentQuestions.map(q => q.id);
     let correct = 0;
     let wrong = 0;
 
     currentPageQuestions.forEach(id => {
       const question = mcqs.find(q => q.id === id);
-      if (userAnswers[id] === question.correctAnswer) {
+      const answer = userAnswers[id];
+
+      if (!question || !answer) {
+        return;
+      }
+
+      if (answer === question.correctAnswer) {
         correct++;
       } else {
         wrong++;
@@ -117,6 +93,14 @@ function MCQTest({ moduleId, onBack }) {
     });
 
     return { correct, wrong, total: currentPageQuestions.length };
+  };
+
+  const isPageComplete = (page) => {
+    const start = (page - 1) * questionsPerPage;
+    const end = start + questionsPerPage;
+    const pageQuestions = mcqs.slice(start, end);
+    if (pageQuestions.length === 0) return false;
+    return pageQuestions.every(q => userAnswers[q.id]);
   };
 
   const stats = getStats();
@@ -212,19 +196,15 @@ function MCQTest({ moduleId, onBack }) {
                           ? '2px solid #1a1a1a'
                           : '2px solid #e5e5e5',
                         borderRadius: '8px',
-                        cursor: isPageValidated ? 'default' : 'pointer',
+                        cursor: 'pointer',
                         transition: 'all 0.2s ease'
                       }}
-                      onClick={() => !isPageValidated && handleAnswerSelect(question.id, option.label)}
+                      onClick={() => handleAnswerSelect(question.id, option.label)}
                       onMouseEnter={(e) => {
-                        if (!isPageValidated) {
-                          e.currentTarget.style.borderColor = '#666';
-                        }
+                        e.currentTarget.style.borderColor = '#666';
                       }}
                       onMouseLeave={(e) => {
-                        if (!isPageValidated) {
-                          e.currentTarget.style.borderColor = userAnswers[question.id] === option.label ? '#1a1a1a' : '#e5e5e5';
-                        }
+                        e.currentTarget.style.borderColor = userAnswers[question.id] === option.label ? '#1a1a1a' : '#e5e5e5';
                       }}
                     >
                       <div className="d-flex align-items-start gap-2">
@@ -257,21 +237,6 @@ function MCQTest({ moduleId, onBack }) {
           </button>
 
           <div className="d-flex gap-2">
-            {!isPageValidated && (
-              <button
-                className="btn btn-dark"
-                onClick={handleValidate}
-                style={{
-                  borderRadius: '8px',
-                  backgroundColor: '#1a1a1a',
-                  border: 'none',
-                  padding: '12px 32px'
-                }}
-              >
-                Validate Answers
-              </button>
-            )}
-            
             <button
               className="btn btn-outline-danger"
               onClick={handleClearPage}
@@ -316,7 +281,7 @@ function MCQTest({ moduleId, onBack }) {
               }}
             >
               {page}
-              {validatedPages[page] && (
+              {isPageComplete(page) && (
                 <span
                   style={{
                     position: 'absolute',
