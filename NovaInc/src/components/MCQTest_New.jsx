@@ -36,7 +36,7 @@ function Timer({ duration, onTimeUp }) {
   );
 }
 
-function MCQTest({ moduleId, sectionId, onBack, onNextSection }) {
+function MCQTest({ moduleId, sectionId, onBack }) {
   const storageKey = `mcq_module${moduleId}_section${sectionId}`;
   const sectionSize = 20;
   
@@ -45,14 +45,13 @@ function MCQTest({ moduleId, sectionId, onBack, onNextSection }) {
     return saved ? JSON.parse(saved) : {};
   });
 
-  const [isTimeUp, setIsTimeUp] = useState(false);
+  const [isTimeUp, setIsTimeUp] = useState(true);
   
   const allMcqs = mcqsData[`module${moduleId}`] || [];
   // Calculate range for this section
   const startIndex = (sectionId - 1) * sectionSize;
   const endIndex = Math.min(startIndex + sectionSize, allMcqs.length);
   const currentQuestions = allMcqs.slice(startIndex, endIndex);
-  const hasNextSection = endIndex < allMcqs.length;
 
   // Save to localStorage whenever state changes
   useEffect(() => {
@@ -145,7 +144,7 @@ function MCQTest({ moduleId, sectionId, onBack, onNextSection }) {
               </div>
             </div>
             
-            {!isTimeUp && <Timer duration={36} onTimeUp={handleTimeUp} />}
+            {!isTimeUp && <Timer duration={1} onTimeUp={handleTimeUp} />}
             {isTimeUp && <div className="text-danger fw-bold border border-danger px-3 py-2 rounded">TIME UP</div>}
           </div>
         </div>
@@ -239,7 +238,7 @@ function MCQTest({ moduleId, sectionId, onBack, onNextSection }) {
         </div>
 
         {/* Action Buttons */}
-        <div className="d-flex justify-content-center gap-3 mb-5 flex-wrap">
+        <div className="d-flex justify-content-center mb-5">
           {!isTimeUp && (
             <button
               className="btn btn-outline-danger"
@@ -251,21 +250,6 @@ function MCQTest({ moduleId, sectionId, onBack, onNextSection }) {
               }}
             >
               Clear Section Answers
-            </button>
-          )}
-
-          {hasNextSection && (
-            <button
-              className="btn btn-dark"
-              onClick={onNextSection}
-              style={{
-                borderRadius: '8px',
-                padding: '12px 32px',
-                backgroundColor: '#1a1a1a',
-                border: 'none'
-              }}
-            >
-              Next Section →
             </button>
           )}
         </div>
