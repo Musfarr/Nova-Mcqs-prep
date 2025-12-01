@@ -5824,6 +5824,3265 @@
       "correctAnswer": "C"
     }
   ],
-  "module2": [],
+  "module2": [
+    {
+      "id": 1,
+      "question": "What is the main purpose of using a primer in the painting process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To add color variety"
+        },
+        {
+          "label": "B",
+          "text": "To enhance corrosion resistance"
+        },
+        {
+          "label": "C",
+          "text": "To minimize drying time"
+        },
+        {
+          "label": "D",
+          "text": "To provide texture"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 2,
+      "question": "What is 'bondo' primarily used for in auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To enhance engine performance"
+        },
+        {
+          "label": "B",
+          "text": "A brand of body filler for repairing dents"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 3,
+      "question": "What effect does ultraviolet (UV) light have on automotive paint?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It enhances the color"
+        },
+        {
+          "label": "B",
+          "text": "It can cause paint fading"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 4,
+      "question": "What does \"unibody construction\" imply about a vehicle's design?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The body and frame are separate components"
+        },
+        {
+          "label": "B",
+          "text": "The vehicle has a flexible frame"
+        },
+        {
+          "label": "C",
+          "text": "The body and frame are combined into a single structure"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 5,
+      "question": "What is the role of a spot welder in auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To cut metal for easier management"
+        },
+        {
+          "label": "B",
+          "text": "To join overlapping metal parts using a concentrated heat source"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Why is correct surface preparation critical in repainting a vehicle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It reduces the time needed for repairs"
+        },
+        {
+          "label": "B",
+          "text": "It ensures paint adhesion and finish quality"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which tool is commonly used for welding in auto body repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "TIG (Tungsten Inert Gas) welder"
+        },
+        {
+          "label": "B",
+          "text": "Stick welder"
+        },
+        {
+          "label": "C",
+          "text": "MIG (Metal Inert Gas) welder"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 8,
+      "question": "What is the primary function of clear coat in automotive painting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To provide a decorative layer only"
+        },
+        {
+          "label": "B",
+          "text": "To enhance gloss and protect the finish"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 9,
+      "question": "What are the main responsibilities of an Auto Body and Collision Technician?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Repairing and restoring electrical systems"
+        },
+        {
+          "label": "B",
+          "text": "Repairing and restoring damaged vehicles"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 10,
+      "question": "What is the importance of performing a final detail on a repaired vehicle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To check for mechanical issues"
+        },
+        {
+          "label": "B",
+          "text": "To ensure the vehicle appears flawless"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 11,
+      "question": "What are some common uses of bondo in auto body work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Structuring frames"
+        },
+        {
+          "label": "B",
+          "text": "Painting surfaces"
+        },
+        {
+          "label": "C",
+          "text": "Filling dents, scratches, and imperfections in body panels"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 12,
+      "question": "What factors can significantly affect the drying time of automotive paint?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Color and type of paint"
+        },
+        {
+          "label": "B",
+          "text": "Temperature, humidity, and airflow"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 13,
+      "question": "What is the primary reason for matching paint color precisely in auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To ensure low-cost repairs"
+        },
+        {
+          "label": "B",
+          "text": "To provide aesthetic appeal"
+        },
+        {
+          "label": "C",
+          "text": "To ensure a seamless repair"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 14,
+      "question": "What might improper surface preparation lead to in vehicle painting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Improved adhesion"
+        },
+        {
+          "label": "B",
+          "text": "Increased finish durability"
+        },
+        {
+          "label": "C",
+          "text": "Paint failure and peeling"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 15,
+      "question": "What is one of the initial steps in the collision repair process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Painting the damaged area"
+        },
+        {
+          "label": "B",
+          "text": "Assessing the damage"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 16,
+      "question": "What is one potential risk of not measuring paint thickness accurately?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unexpected temperature fluctuations"
+        },
+        {
+          "label": "B",
+          "text": "Excessive overspray"
+        },
+        {
+          "label": "C",
+          "text": "Poor paint adhesion"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 17,
+      "question": "What role do crumple zones serve in a vehicle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To optimize fuel consumption"
+        },
+        {
+          "label": "B",
+          "text": "To absorb energy during impacts"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which tool is commonly used to apply filler in auto body repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A plastic spreader or trowel"
+        },
+        {
+          "label": "B",
+          "text": "A bristle brush"
+        },
+        {
+          "label": "C",
+          "text": "A power sander"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 19,
+      "question": "What is the purpose of a sanding block in auto body work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To store sanding materials"
+        },
+        {
+          "label": "B",
+          "text": "To provide a flat surface for sanding"
+        },
+        {
+          "label": "C",
+          "text": "To apply paint evenly"
+        },
+        {
+          "label": "D",
+          "text": "To measure the thickness of paint"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 20,
+      "question": "What does the term \"anchor points\" pertain to in a vehicle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decorative elements on the vehicle's body"
+        },
+        {
+          "label": "B",
+          "text": "Areas designed for securing parts and structural repairs"
+        },
+        {
+          "label": "C",
+          "text": "Points that do not affect the vehicle's integrity"
+        },
+        {
+          "label": "D",
+          "text": "Attachment points for convenience accessories"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 21,
+      "question": "How does an auto body technician assess potential hidden damages?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By taking photographs during repairs"
+        },
+        {
+          "label": "B",
+          "text": "By thoroughly inspecting underbody and internal components"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 22,
+      "question": "What is the role of a technician during a vehicle inspection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To modify vehicle performance"
+        },
+        {
+          "label": "B",
+          "text": "To assess the condition of the vehicle"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 23,
+      "question": "What outcome does accident reconstruction software primarily provide?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Insurance estimates"
+        },
+        {
+          "label": "B",
+          "text": "Timelines for repair"
+        },
+        {
+          "label": "C",
+          "text": "Evidence for accident analysis"
+        },
+        {
+          "label": "D",
+          "text": "Market value assessments"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 24,
+      "question": "What is the function of the National Automotive Service Task Force (NASTF)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To enforce automotive safety regulations"
+        },
+        {
+          "label": "B",
+          "text": "To provide repair data and service information"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 25,
+      "question": "What process is typically performed after the repair and before delivery of a vehicle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Testing the engine"
+        },
+        {
+          "label": "B",
+          "text": "Refinishing and polishing"
+        },
+        {
+          "label": "C",
+          "text": "Removing all parts"
+        },
+        {
+          "label": "D",
+          "text": "Stripping the paint"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 26,
+      "question": "What is the primary purpose of rust proofing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To enhance paint adhesion"
+        },
+        {
+          "label": "B",
+          "text": "To provide a glossy finish"
+        },
+        {
+          "label": "C",
+          "text": "To prevent corrosion"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 27,
+      "question": "What does proper prep work help to avoid in the final finish of a repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased costs"
+        },
+        {
+          "label": "B",
+          "text": "Visible defects and poor durability"
+        },
+        {
+          "label": "C",
+          "text": "Time delays"
+        },
+        {
+          "label": "D",
+          "text": "Inaccurate color matching"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 28,
+      "question": "What aspect of vehicle repairs can be affected by not properly calibrating ADAS systems after a collision?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fuel efficiency"
+        },
+        {
+          "label": "B",
+          "text": "Driver assistance functionality"
+        },
+        {
+          "label": "C",
+          "text": "Overall weight distribution"
+        },
+        {
+          "label": "D",
+          "text": "Paint surface quality"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 29,
+      "question": "What type of analysis can accident reconstruction software assist with in collision scenarios?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Engine performance analysis"
+        },
+        {
+          "label": "B",
+          "text": "Crash dynamics analysis"
+        },
+        {
+          "label": "C",
+          "text": "Body shop efficiency analysis"
+        },
+        {
+          "label": "D",
+          "text": "Paint quality analysis"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 30,
+      "question": "In collision repair, why is overspray reduction critical?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It enhances the paint color's vibrancy"
+        },
+        {
+          "label": "B",
+          "text": "It minimizes environmental contamination"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 31,
+      "question": "What is the main responsibility of an auto body technician?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diagnosing mechanical issues"
+        },
+        {
+          "label": "B",
+          "text": "Repairing and replacing damaged structures and panels"
+        },
+        {
+          "label": "C",
+          "text": "Performing engine modifications"
+        },
+        {
+          "label": "D",
+          "text": "Conducting routine vehicle maintenance"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Why is it important to know the manufacturer's specifications during repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To improve aesthetics"
+        },
+        {
+          "label": "B",
+          "text": "To ensure repairs meet safety standards"
+        },
+        {
+          "label": "C",
+          "text": "To increase repair speed"
+        },
+        {
+          "label": "D",
+          "text": "To reduce costs"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Why is prep work as important as the actual repair work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It allows for faster repairs"
+        },
+        {
+          "label": "B",
+          "text": "It ensures better adhesion and finish quality"
+        },
+        {
+          "label": "C",
+          "text": "It increases the overall cost"
+        },
+        {
+          "label": "D",
+          "text": "It is less time-consuming than repair work"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 34,
+      "question": "What is the first step in the vehicle repair process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ordering replacement parts"
+        },
+        {
+          "label": "B",
+          "text": "Conducting a thorough assessment of the vehicle's damage"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Describe the purpose of a paint reducer.",
+      "options": [
+        {
+          "label": "A",
+          "text": "To adjust the viscosity of the paint for optimal application."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 36,
+      "question": "What is the function of a clear coat in automotive painting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To provide a protective layer and enhance the appearance of the basecoat."
+        },
+        {
+          "label": "B",
+          "text": "To serve as a primer for the base coat."
+        },
+        {
+          "label": "C",
+          "text": "To act as a bonding agent."
+        },
+        {
+          "label": "D",
+          "text": "To increase the drying time of the paint."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 37,
+      "question": "What is a key advantage of using a cyclonic paint booth in collision repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lower energy consumption"
+        },
+        {
+          "label": "B",
+          "text": "Minimized paint waste from overspray"
+        },
+        {
+          "label": "C",
+          "text": "Greater flexibility in paint color selection"
+        },
+        {
+          "label": "D",
+          "text": "Improved heating capabilities"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 38,
+      "question": "What key elements are included in a comprehensive repair estimate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only the cost of parts"
+        },
+        {
+          "label": "B",
+          "text": "A detailed breakdown of repairs, parts, labor, and costs"
+        },
+        {
+          "label": "C",
+          "text": "An estimate of time needed for repairs only"
+        },
+        {
+          "label": "D",
+          "text": "A list of tools needed for the repair"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 39,
+      "question": "What role does the Canadian Standards Association (CSA) play in auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It provides necessary tools for auto body shops"
+        },
+        {
+          "label": "B",
+          "text": "It sets safety and performance standards"
+        },
+        {
+          "label": "C",
+          "text": "It trains technicians on repair methods"
+        },
+        {
+          "label": "D",
+          "text": "It regulates vehicle insurance policies"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 40,
+      "question": "What is the purpose of using a slide hammer in body repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To drill holes in panels"
+        },
+        {
+          "label": "B",
+          "text": "To pull out dents without damaging surrounding areas"
+        },
+        {
+          "label": "C",
+          "text": "To mix fillers"
+        },
+        {
+          "label": "D",
+          "text": "To measure panel depth"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Why is it crucial to use OEM parts in vehicle repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are less expensive than aftermarket parts"
+        },
+        {
+          "label": "B",
+          "text": "They ensure unique styling"
+        },
+        {
+          "label": "C",
+          "text": "They guarantee compatibility and quality"
+        },
+        {
+          "label": "D",
+          "text": "They come with a universal warranty"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 42,
+      "question": "What measurement is crucial for ensuring proper paint application?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The temperature of the paint"
+        },
+        {
+          "label": "B",
+          "text": "The viscosity of the paint"
+        },
+        {
+          "label": "C",
+          "text": "The thickness of paint layers"
+        },
+        {
+          "label": "D",
+          "text": "The humidity of the environment"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 43,
+      "question": "How can a technician determine if a structural part can be repaired or needs replacement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By assessing the vehicle's color"
+        },
+        {
+          "label": "B",
+          "text": "By checking the vehicle's age"
+        },
+        {
+          "label": "C",
+          "text": "By assessing the extent of damage and manufacturer's specifications"
+        },
+        {
+          "label": "D",
+          "text": "By evaluating customer preferences"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 44,
+      "question": "How can an auto body technician determine paint color matches?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By visually comparing colors under natural light"
+        },
+        {
+          "label": "B",
+          "text": "Using color matching software or paint chips"
+        },
+        {
+          "label": "C",
+          "text": "Consulting the vehicle manufacturer's color catalog"
+        },
+        {
+          "label": "D",
+          "text": "Using only their experience and intuition"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 45,
+      "question": "What is a major consideration when selecting a primer for auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Color variety available"
+        },
+        {
+          "label": "B",
+          "text": "Cost-effectiveness"
+        },
+        {
+          "label": "C",
+          "text": "Compatibility with the topcoat and the substrate material"
+        },
+        {
+          "label": "D",
+          "text": "Brand reputation"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 46,
+      "question": "What indicates that a vehicle's structural integrity may be compromised?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Minor surface scratches on the paint"
+        },
+        {
+          "label": "B",
+          "text": "Significant frame damage or structural deformation"
+        },
+        {
+          "label": "C",
+          "text": "Unusual noises during normal operation"
+        },
+        {
+          "label": "D",
+          "text": "Loose interior components"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Identify one environmental consideration auto body shops must comply with.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Use of renewable energy"
+        },
+        {
+          "label": "B",
+          "text": "Proper disposal of hazardous materials"
+        },
+        {
+          "label": "C",
+          "text": "Reducing water usage"
+        },
+        {
+          "label": "D",
+          "text": "Installing solar panels"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 48,
+      "question": "What type of repairs can be included in a 'restoration' project?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only mechanical repairs"
+        },
+        {
+          "label": "B",
+          "text": "Only cosmetic repairs"
+        },
+        {
+          "label": "C",
+          "text": "Both cosmetic and mechanical repairs"
+        },
+        {
+          "label": "D",
+          "text": "Routine maintenance only"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 49,
+      "question": "In collision repair, what does the term 'completeness' refer to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The readiness of the vehicle for a test drive"
+        },
+        {
+          "label": "B",
+          "text": "Ensuring all required repairs are completed"
+        },
+        {
+          "label": "C",
+          "text": "The cosmetic appearance of the vehicle"
+        },
+        {
+          "label": "D",
+          "text": "The accuracy of paint color matching"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 50,
+      "question": "What is a key advantage of using water-based paints over solvent-based paints?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Better color variety"
+        },
+        {
+          "label": "B",
+          "text": "Reduced environmental impact and lower toxicity"
+        },
+        {
+          "label": "C",
+          "text": "Faster drying times"
+        },
+        {
+          "label": "D",
+          "text": "Improved adhesion to metal surfaces"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 51,
+      "question": "Which of the following is a common method for repairing dented panels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Grind and replace"
+        },
+        {
+          "label": "B",
+          "text": "Pull and fill"
+        },
+        {
+          "label": "C",
+          "text": "Heat and bend"
+        },
+        {
+          "label": "D",
+          "text": "Wrap and cover"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Under what condition would a technician typically replace an entire panel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "When the panel needs paint"
+        },
+        {
+          "label": "B",
+          "text": "When the damage is extensive and compromises structural integrity"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 53,
+      "question": "What constitutes a 'total loss' in auto body evaluating?",
+      "options": [
+        {
+          "label": "A",
+          "text": "When the vehicle is stolen"
+        },
+        {
+          "label": "B",
+          "text": "When the market value exceeds repair costs"
+        },
+        {
+          "label": "C",
+          "text": "When repairs exceed a certain percentage of market value"
+        },
+        {
+          "label": "D",
+          "text": "When the vehicle is over ten years old"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 54,
+      "question": "What is the main purpose of primer in auto body painting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To create a glossy finish"
+        },
+        {
+          "label": "B",
+          "text": "To enhance color vibrancy"
+        },
+        {
+          "label": "C",
+          "text": "To provide better adhesion for the topcoat"
+        },
+        {
+          "label": "D",
+          "text": "To mask imperfections"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 55,
+      "question": "What outcome can be expected from using a thickness gauge during the painting process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased paint consumption"
+        },
+        {
+          "label": "B",
+          "text": "Improved surface preparation"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced control over paint application"
+        },
+        {
+          "label": "D",
+          "text": "Greater variety in paint colors"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 56,
+      "question": "What are the common types of materials used in auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Steel, wood, and rubber"
+        },
+        {
+          "label": "B",
+          "text": "Aluminum, fiberglass, and copper"
+        },
+        {
+          "label": "C",
+          "text": "Steel, plastic, and composite materials"
+        },
+        {
+          "label": "D",
+          "text": "Wood, glass, and carbon fiber"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 57,
+      "question": "What is the purpose of the clear coat in automotive painting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To provide additional color"
+        },
+        {
+          "label": "B",
+          "text": "To act as a primer"
+        },
+        {
+          "label": "C",
+          "text": "To protect the paint and enhance gloss"
+        },
+        {
+          "label": "D",
+          "text": "To reduce drying time"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 58,
+      "question": "Why is it critical to maintain accuracy in measured assessments during auto body repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To meet aesthetic standards"
+        },
+        {
+          "label": "B",
+          "text": "To ensure high safety standards"
+        },
+        {
+          "label": "C",
+          "text": "To manage costs effectively"
+        },
+        {
+          "label": "D",
+          "text": "To comply with warranty regulations"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 59,
+      "question": "Which tool is commonly used to measure the thickness of paint?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paint application gun"
+        },
+        {
+          "label": "B",
+          "text": "Thickness gauge"
+        },
+        {
+          "label": "C",
+          "text": "Caliper"
+        },
+        {
+          "label": "D",
+          "text": "Micrometer"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 60,
+      "question": "What factors can lead a technician to consider a panel replacement over repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Color mismatch"
+        },
+        {
+          "label": "B",
+          "text": "Presence of rust only"
+        },
+        {
+          "label": "C",
+          "text": "Extent of damage affecting panel functionality"
+        },
+        {
+          "label": "D",
+          "text": "Age of the vehicle"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 61,
+      "question": "What are the signs of misaligned body panels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clear varnish peeling"
+        },
+        {
+          "label": "B",
+          "text": "Gaps and uneven spaces between panels"
+        },
+        {
+          "label": "C",
+          "text": "Rust on painted surfaces"
+        },
+        {
+          "label": "D",
+          "text": "Uneven wear on tires"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 62,
+      "question": "Which material is specifically designed to flex and absorb impacts in auto body repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rigid filler"
+        },
+        {
+          "label": "B",
+          "text": "Expandable foam"
+        },
+        {
+          "label": "C",
+          "text": "Flexible filler"
+        },
+        {
+          "label": "D",
+          "text": "Structural adhesive"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 63,
+      "question": "What is a common type of auto body repair performed on vehicles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Windshield replacement"
+        },
+        {
+          "label": "B",
+          "text": "Engine repair"
+        },
+        {
+          "label": "C",
+          "text": "Dent repair"
+        },
+        {
+          "label": "D",
+          "text": "Transmission service"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 64,
+      "question": "Which factor is NOT important in the painting process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Time allowed for drying between coats"
+        },
+        {
+          "label": "B",
+          "text": "Environmental conditions during application"
+        },
+        {
+          "label": "C",
+          "text": "Using multiple brands of paint at once"
+        },
+        {
+          "label": "D",
+          "text": "Proper surface preparation before painting"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 65,
+      "question": "What is the primary function of a seam sealer in auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To improve paint adhesion"
+        },
+        {
+          "label": "B",
+          "text": "To enhance the visual appeal"
+        },
+        {
+          "label": "C",
+          "text": "To prevent water intrusion and maintain structural integrity"
+        },
+        {
+          "label": "D",
+          "text": "To reduce wind noise"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 66,
+      "question": "What is a common issue that flexible fillers help prevent in repaired areas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Discoloration of paint"
+        },
+        {
+          "label": "B",
+          "text": "Cracking due to temperature changes"
+        },
+        {
+          "label": "C",
+          "text": "Peeling of paint layers"
+        },
+        {
+          "label": "D",
+          "text": "Difficulty in surface cleaning"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 67,
+      "question": "What is the primary purpose of a paint booth in auto body work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To enhance the paint's color"
+        },
+        {
+          "label": "B",
+          "text": "To provide a controlled environment for painting"
+        },
+        {
+          "label": "C",
+          "text": "To display finished vehicles"
+        },
+        {
+          "label": "D",
+          "text": "To reduce noise during painting"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Why is proper ventilation important in an auto body shop?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To maintain a comfortable temperature"
+        },
+        {
+          "label": "B",
+          "text": "To prevent inhalation of harmful fumes"
+        },
+        {
+          "label": "C",
+          "text": "To reduce noise levels"
+        },
+        {
+          "label": "D",
+          "text": "To minimize dust accumulation"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 69,
+      "question": "What is the process of preparing surfaces for paint application commonly referred to as?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Surface treatment"
+        },
+        {
+          "label": "B",
+          "text": "Surface conditioning"
+        },
+        {
+          "label": "C",
+          "text": "Surface preparation"
+        },
+        {
+          "label": "D",
+          "text": "Surface enhancement"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 70,
+      "question": "How should auto body filler be properly mixed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By adding water to the mixture"
+        },
+        {
+          "label": "B",
+          "text": "By following manufacturer's instructions and ensuring correct ratios of filler and hardener"
+        },
+        {
+          "label": "C",
+          "text": "By estimating ratios based on previous experience"
+        },
+        {
+          "label": "D",
+          "text": "By mixing with a power tool for efficiency"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 71,
+      "question": "Why is it important to check paint thickness before application?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To determine the drying time"
+        },
+        {
+          "label": "B",
+          "text": "To confirm color matching"
+        },
+        {
+          "label": "C",
+          "text": "To ensure layers meet the required specifications"
+        },
+        {
+          "label": "D",
+          "text": "To calculate paint costs"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 72,
+      "question": "Define the term 'collision repair'.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Upgrading vehicle performance"
+        },
+        {
+          "label": "B",
+          "text": "The process of restoring a vehicle"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 73,
+      "question": "What is the function of a frame machine in auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To accurately align the vehicle's frame"
+        },
+        {
+          "label": "B",
+          "text": "To paint the vehicle body"
+        },
+        {
+          "label": "C",
+          "text": "To hold parts in place during assembly"
+        },
+        {
+          "label": "D",
+          "text": "To remove dents from the body"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 74,
+      "question": "Which of the following best describes a crucial part of the vehicle repair process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Choosing the cheapest materials available"
+        },
+        {
+          "label": "B",
+          "text": "Following proper repair procedures and guidelines"
+        },
+        {
+          "label": "C",
+          "text": "Rushing the repair to save time"
+        },
+        {
+          "label": "D",
+          "text": "Neglecting safety features for enhanced appearance"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 75,
+      "question": "What is one reason for conducting a vehicle inspection before repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To identify and document pre-existing damage"
+        },
+        {
+          "label": "B",
+          "text": "To determine cost estimates"
+        },
+        {
+          "label": "C",
+          "text": "To evaluate customer satisfaction"
+        },
+        {
+          "label": "D",
+          "text": "To promote vehicle resale value"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 76,
+      "question": "Identify a common injury risk in auto body repair.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Exposure to toxic fumes"
+        },
+        {
+          "label": "B",
+          "text": "Electric shocks from tools"
+        },
+        {
+          "label": "C",
+          "text": "Cuts and bruises from sharp metal edges"
+        },
+        {
+          "label": "D",
+          "text": "Falls from heights"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 77,
+      "question": "How does spot welding contribute to the structural integrity of a vehicle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It allows for flexible repair options"
+        },
+        {
+          "label": "B",
+          "text": "It ensures strong connections at critical joints"
+        },
+        {
+          "label": "C",
+          "text": "It makes repairs easier to perform"
+        },
+        {
+          "label": "D",
+          "text": "It reduces the weight of the vehicle"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 78,
+      "question": "What is the role of a diagnostic scan tool in collision repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To replace damaged parts"
+        },
+        {
+          "label": "B",
+          "text": "To read and clear diagnostic trouble codes"
+        },
+        {
+          "label": "C",
+          "text": "To paint over scratches"
+        },
+        {
+          "label": "D",
+          "text": "To align vehicle frames"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 79,
+      "question": "What aspect of paint application does a thickness gauge directly influence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paint drying time"
+        },
+        {
+          "label": "B",
+          "text": "Color accuracy"
+        },
+        {
+          "label": "C",
+          "text": "Adhesion quality"
+        },
+        {
+          "label": "D",
+          "text": "Layer consistency"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 80,
+      "question": "Why are OEM parts significant in collision repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are cheaper than aftermarket parts"
+        },
+        {
+          "label": "B",
+          "text": "They can be used in any vehicle"
+        },
+        {
+          "label": "C",
+          "text": "They ensure proper fit, functionality, and maintain the vehicle's warranty"
+        },
+        {
+          "label": "D",
+          "text": "They require no special tools to install"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 81,
+      "question": "Define the term \"collision estimating.\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "The process of assessing the extent of damage and estimating repair costs."
+        },
+        {
+          "label": "B",
+          "text": "The evaluation of the vehicle's resale value."
+        },
+        {
+          "label": "C",
+          "text": "The calculation of labor hours needed for repair."
+        },
+        {
+          "label": "D",
+          "text": "The analysis of the vehicle's warranty coverage."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 82,
+      "question": "How is the term \"refinishing\" defined in auto body work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The addition of accessories to the vehicle"
+        },
+        {
+          "label": "B",
+          "text": "The process of restoring the vehicle's paint and finish"
+        },
+        {
+          "label": "C",
+          "text": "A routine cleaning of the vehicle"
+        },
+        {
+          "label": "D",
+          "text": "A method for increasing vehicle insurance"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 83,
+      "question": "What is a common cause of paint failure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Poor choice of paint color"
+        },
+        {
+          "label": "B",
+          "text": "Unexpected rain during painting"
+        },
+        {
+          "label": "C",
+          "text": "Poor surface preparation before painting"
+        },
+        {
+          "label": "D",
+          "text": "Using outdated paint products"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 84,
+      "question": "What is the primary purpose of a collision repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To restore the vehicle to its pre-accident condition"
+        },
+        {
+          "label": "B",
+          "text": "To minimize repair costs for insurance"
+        },
+        {
+          "label": "C",
+          "text": "To enhance the vehicle's resale value"
+        },
+        {
+          "label": "D",
+          "text": "To change the vehicle's color and style"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 85,
+      "question": "What type of damage can frame pulling specifically address in auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Surface scratches"
+        },
+        {
+          "label": "B",
+          "text": "Mechanical failures"
+        },
+        {
+          "label": "C",
+          "text": "Structural damage"
+        },
+        {
+          "label": "D",
+          "text": "Cosmetic imperfections"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 86,
+      "question": "What is the role of a technician during post-repair inspections?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To initiate contact with the customer"
+        },
+        {
+          "label": "B",
+          "text": "To verify that all repairs were properly executed"
+        },
+        {
+          "label": "C",
+          "text": "To perform a test drive of the vehicle"
+        },
+        {
+          "label": "D",
+          "text": "To apply a fresh coat of wax"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 87,
+      "question": "What is the significance of vehicle alignment in collision repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It primarily affects the sound system of the vehicle"
+        },
+        {
+          "label": "B",
+          "text": "Proper alignment ensures vehicle safety, handling, and tire longevity"
+        },
+        {
+          "label": "C",
+          "text": "It enhances the aesthetic appeal of the vehicle"
+        },
+        {
+          "label": "D",
+          "text": "It has no significant impact on the vehicle's performance"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 88,
+      "question": "What role does the substrate play in paint systems?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It reflects light to enhance color"
+        },
+        {
+          "label": "B",
+          "text": "It serves as the surface for paint application"
+        },
+        {
+          "label": "C",
+          "text": "It determines the paint's viscosity"
+        },
+        {
+          "label": "D",
+          "text": "It influences the drying time of the paint"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 89,
+      "question": "What material is commonly used for glass replacement in vehicles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Laminated safety glass"
+        },
+        {
+          "label": "B",
+          "text": "Tempered glass"
+        },
+        {
+          "label": "C",
+          "text": "Plexiglass"
+        },
+        {
+          "label": "D",
+          "text": "Acrylic glass"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 90,
+      "question": "Which types of welding are commonly utilized in auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arc and plasma welding"
+        },
+        {
+          "label": "B",
+          "text": "MIG and TIG welding"
+        },
+        {
+          "label": "C",
+          "text": "Spot and laser welding"
+        },
+        {
+          "label": "D",
+          "text": "Oxy-fuel and friction welding"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 91,
+      "question": "What can be a consequence of inadequate prep work before repair or painting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduced costs"
+        },
+        {
+          "label": "B",
+          "text": "Increased chance of finish defects"
+        },
+        {
+          "label": "C",
+          "text": "Faster repair times"
+        },
+        {
+          "label": "D",
+          "text": "Improved adhesion"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 92,
+      "question": "What is the key benefit of using a primer prior to applying paint?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To attract dirt"
+        },
+        {
+          "label": "B",
+          "text": "To enhance adhesion of paint layers"
+        },
+        {
+          "label": "C",
+          "text": "To reduce the number of coats needed"
+        },
+        {
+          "label": "D",
+          "text": "To change the surface color"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 93,
+      "question": "What essential safety gear should an auto body technician always wear?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only gloves and aprons"
+        },
+        {
+          "label": "B",
+          "text": "Safety goggles, gloves, and respiratory protection"
+        },
+        {
+          "label": "C",
+          "text": "Earplugs and knee pads"
+        },
+        {
+          "label": "D",
+          "text": "Protective shoes and jackets"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 94,
+      "question": "What is an important safety precaution when lifting vehicles for repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Always using jack stands"
+        },
+        {
+          "label": "B",
+          "text": "Using only hydraulic jacks for support"
+        },
+        {
+          "label": "C",
+          "text": "Lifting the vehicle without assistants"
+        },
+        {
+          "label": "D",
+          "text": "Relying on tire pressure for stability"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 95,
+      "question": "What type of corrosion is associated with exposed, unprotected metal areas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Galvanic corrosion"
+        },
+        {
+          "label": "B",
+          "text": "Cathodic corrosion"
+        },
+        {
+          "label": "C",
+          "text": "Uniform corrosion"
+        },
+        {
+          "label": "D",
+          "text": "Pitting corrosion"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 96,
+      "question": "How can you ensure the longevity of a vehicle's repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By using low-quality parts and materials"
+        },
+        {
+          "label": "B",
+          "text": "By using high-quality parts and materials"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 97,
+      "question": "How frequently should a technician calibrate their measuring tools?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Once a year"
+        },
+        {
+          "label": "B",
+          "text": "Only when they appear damaged"
+        },
+        {
+          "label": "C",
+          "text": "Regularly for accuracy"
+        },
+        {
+          "label": "D",
+          "text": "After every repair job"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 98,
+      "question": "What type of surface condition can negatively impact the quality of a paint job?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A clean and smooth surface"
+        },
+        {
+          "label": "B",
+          "text": "A dry and warm surface"
+        },
+        {
+          "label": "C",
+          "text": "A dirty and rough surface"
+        },
+        {
+          "label": "D",
+          "text": "A wet and cold surface"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 99,
+      "question": "What is the primary purpose of using a flexible filler in auto body repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To improve paint adhesion"
+        },
+        {
+          "label": "B",
+          "text": "To create a smooth surface"
+        },
+        {
+          "label": "C",
+          "text": "To absorb shocks and flex with changes"
+        },
+        {
+          "label": "D",
+          "text": "To add structural strength"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 100,
+      "question": "What is a major disadvantage of using too much body filler?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It can lead to cracking and premature failure of the repair."
+        },
+        {
+          "label": "B",
+          "text": "It makes the vehicle heavier."
+        },
+        {
+          "label": "C",
+          "text": "It increases the cost of materials."
+        },
+        {
+          "label": "D",
+          "text": "It requires longer drying times."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 101,
+      "question": "How can the use of a cyclonic paint booth impact productivity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By eliminating the need for safety gear"
+        },
+        {
+          "label": "B",
+          "text": "By increasing the efficiency of the painting process"
+        },
+        {
+          "label": "C",
+          "text": "By reducing the time needed for surface preparation"
+        },
+        {
+          "label": "D",
+          "text": "By maximizing color selection options"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 102,
+      "question": "What are the common causes of paint runs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Applying paint too thickly or inadequate drying time"
+        },
+        {
+          "label": "B",
+          "text": "Using the wrong type of paint"
+        },
+        {
+          "label": "C",
+          "text": "Applying paint at a low temperature"
+        },
+        {
+          "label": "D",
+          "text": "Mixing different brands of paint"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 103,
+      "question": "Which element is essential when addressing vehicles post-repair with advanced driver-assistance systems (ADAS)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Checking battery life"
+        },
+        {
+          "label": "B",
+          "text": "Calibrating the systems"
+        },
+        {
+          "label": "C",
+          "text": "Performing exterior washes"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 104,
+      "question": "Which of the following is a common type of paint used in auto finishing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Matte paint"
+        },
+        {
+          "label": "B",
+          "text": "Base coat"
+        },
+        {
+          "label": "C",
+          "text": "Primer only"
+        },
+        {
+          "label": "D",
+          "text": "Ceramic coating"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 105,
+      "question": "When would a body technician use a hammer and dolly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To reshape and smooth out metal surfaces during repairs."
+        },
+        {
+          "label": "B",
+          "text": "To bond two pieces of metal together."
+        },
+        {
+          "label": "C",
+          "text": "To apply paint evenly across a surface."
+        },
+        {
+          "label": "D",
+          "text": "To roughen up a surface for better paint adhesion."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 106,
+      "question": "The main purpose of a paint booth is to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase the shop's aesthetic appeal"
+        },
+        {
+          "label": "B",
+          "text": "Provide heating for the paint application"
+        },
+        {
+          "label": "C",
+          "text": "Control the environment for painting and finishing"
+        },
+        {
+          "label": "D",
+          "text": "Store paints safely"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 107,
+      "question": "Why should you follow the recommended drying times for paints and primers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To allow for paint application flexibility"
+        },
+        {
+          "label": "B",
+          "text": "To ensure proper curing and prevent finish defects"
+        },
+        {
+          "label": "C",
+          "text": "To create a better color match"
+        },
+        {
+          "label": "D",
+          "text": "To minimize the risk of chemical exposure"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 108,
+      "question": "What should be done if a vehicle shows signs of rust damage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ignore it, as it will not progress"
+        },
+        {
+          "label": "B",
+          "text": "Sand it down and apply a rust-inhibitor"
+        },
+        {
+          "label": "C",
+          "text": "Spray paint over it"
+        },
+        {
+          "label": "D",
+          "text": "Cover it with a clear coat"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 109,
+      "question": "Which standard is typically associated with the use of thickness gauges in paint applications?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ASTM Standards"
+        },
+        {
+          "label": "B",
+          "text": "ISO Standards"
+        },
+        {
+          "label": "C",
+          "text": "EN Standards"
+        },
+        {
+          "label": "D",
+          "text": "SAE Standards"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 110,
+      "question": "What does a \"feather edge\" refer to in body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A rough edge that is not blended"
+        },
+        {
+          "label": "B",
+          "text": "The gradual transition from filled areas to surrounding paint"
+        },
+        {
+          "label": "C",
+          "text": "A harsh line of separation between colors"
+        },
+        {
+          "label": "D",
+          "text": "The final layer of paint application"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 111,
+      "question": "What is the purpose of a vehicle's frame?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To provide structural support and integrity for the vehicle"
+        },
+        {
+          "label": "B",
+          "text": "To enhance the vehicle's speed and performance"
+        },
+        {
+          "label": "C",
+          "text": "To improve passenger comfort and luxury"
+        },
+        {
+          "label": "D",
+          "text": "To support the vehicle's aesthetic design"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 112,
+      "question": "What is a \"laser frame measuring system\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A tool for painting vehicles"
+        },
+        {
+          "label": "B",
+          "text": "A technology for measuring vehicle frames"
+        },
+        {
+          "label": "C",
+          "text": "An engine diagnostic tool"
+        },
+        {
+          "label": "D",
+          "text": "A method for applying body filler"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 113,
+      "question": "What is a key aspect of achieving a quality paint job?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using only premium paint"
+        },
+        {
+          "label": "B",
+          "text": "Proper surface preparation for adhesion"
+        },
+        {
+          "label": "C",
+          "text": "Painting in direct sunlight"
+        },
+        {
+          "label": "D",
+          "text": "Applying multiple layers quickly"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 114,
+      "question": "What is one major reason for proper surface preparation before painting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To reduce paint costs"
+        },
+        {
+          "label": "B",
+          "text": "To ensure a durable and smooth paint finish"
+        },
+        {
+          "label": "C",
+          "text": "To save time during the painting process"
+        },
+        {
+          "label": "D",
+          "text": "To make colors appear brighter"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 115,
+      "question": "Name two types of insurance coverage commonly applied to collision repair.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Personal injury and liability insurance"
+        },
+        {
+          "label": "B",
+          "text": "Liability insurance and comprehensive insurance"
+        },
+        {
+          "label": "C",
+          "text": "Full coverage and collision insurance"
+        },
+        {
+          "label": "D",
+          "text": "Extended warranty and garage keepers insurance"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 116,
+      "question": "What does the term \"fit and finish\" refer to in auto bodywork?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The quality of alignment and surface smoothness after repair"
+        },
+        {
+          "label": "B",
+          "text": "The ability of the vehicle to perform efficiently"
+        },
+        {
+          "label": "C",
+          "text": "The aesthetic appearance of the vehicle after painting"
+        },
+        {
+          "label": "D",
+          "text": "The structural integrity of the repair"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 117,
+      "question": "What is a common cause of paint blistering?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using low-quality paint products"
+        },
+        {
+          "label": "B",
+          "text": "Excessive sanding of the surface"
+        },
+        {
+          "label": "C",
+          "text": "Trapped moisture or improper application"
+        },
+        {
+          "label": "D",
+          "text": "Painting during extremely hot conditions"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 118,
+      "question": "What common test is performed to check for metal fatigue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oven bake test"
+        },
+        {
+          "label": "B",
+          "text": "Visual inspection and ultrasonic testing"
+        },
+        {
+          "label": "C",
+          "text": "Thermal imaging"
+        },
+        {
+          "label": "D",
+          "text": "Magnetic particle inspection"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 119,
+      "question": "What is the primary function of a sander in auto body work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To smooth surfaces and prepare them for painting."
+        },
+        {
+          "label": "B",
+          "text": "To apply body filler."
+        },
+        {
+          "label": "C",
+          "text": "To remove rust from metal surfaces."
+        },
+        {
+          "label": "D",
+          "text": "To apply a protective sealant."
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 120,
+      "question": "What device is essential for measuring the alignment of a vehicle frame?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Caliper"
+        },
+        {
+          "label": "B",
+          "text": "Frame measuring tool"
+        },
+        {
+          "label": "C",
+          "text": "Tachometer"
+        },
+        {
+          "label": "D",
+          "text": "Torque wrench"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 121,
+      "question": "What is the main focus of a vehicle inspection performed by a technician?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To enhance vehicle performance"
+        },
+        {
+          "label": "B",
+          "text": "To determine necessary repairs"
+        },
+        {
+          "label": "C",
+          "text": "To clean the vehicle interior"
+        },
+        {
+          "label": "D",
+          "text": "To update the vehicle's software"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 122,
+      "question": "What is typically assessed during the damage evaluation phase in collision repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only the external appearance"
+        },
+        {
+          "label": "B",
+          "text": "Mechanical and aesthetic needs"
+        },
+        {
+          "label": "C",
+          "text": "The tire pressure"
+        },
+        {
+          "label": "D",
+          "text": "The vehicle's color"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 123,
+      "question": "What are the benefits of using a dedicated spray booth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased material costs"
+        },
+        {
+          "label": "B",
+          "text": "Controlled environment for paint application"
+        },
+        {
+          "label": "C",
+          "text": "Faster drying times without quality assurance"
+        },
+        {
+          "label": "D",
+          "text": "Less ventilation than regular work areas"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 124,
+      "question": "After collision repairs, what is a crucial step for vehicles equipped with advanced driver-assistance systems (ADAS)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perform a full engine diagnostic"
+        },
+        {
+          "label": "B",
+          "text": "Ensure airbag sensors are reset"
+        },
+        {
+          "label": "C",
+          "text": "Conduct calibration and functionality checks"
+        },
+        {
+          "label": "D",
+          "text": "Replace all tires"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 125,
+      "question": "What is one effective method for preventing corrosion in auto repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using thinner paint"
+        },
+        {
+          "label": "B",
+          "text": "Leaving surfaces uncoated"
+        },
+        {
+          "label": "C",
+          "text": "Applying rust inhibitors and proper paint coatings"
+        },
+        {
+          "label": "D",
+          "text": "Storing the vehicle in a wet environment"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 126,
+      "question": "What tool is predominantly used for cutting metal panels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A metal cutting saw or air-operated cutting tool"
+        },
+        {
+          "label": "B",
+          "text": "A hand saw or chisel"
+        },
+        {
+          "label": "C",
+          "text": "A welding torch"
+        },
+        {
+          "label": "D",
+          "text": "A simple utility knife"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 127,
+      "question": "What is a significant advantage of utilizing accident reconstruction software?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It automates repair estimations"
+        },
+        {
+          "label": "B",
+          "text": "It aids in analyzing accident dynamics"
+        },
+        {
+          "label": "C",
+          "text": "It forecasts future vehicle performance"
+        },
+        {
+          "label": "D",
+          "text": "It simplifies paint selection"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 128,
+      "question": "In auto body repair, what is the impact of applying heat during the spot welding process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It weakens the metal structure"
+        },
+        {
+          "label": "B",
+          "text": "It helps to clean the surfaces"
+        },
+        {
+          "label": "C",
+          "text": "It facilitates the joining of metal sheets"
+        },
+        {
+          "label": "D",
+          "text": "It evaporates any moisture present"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 129,
+      "question": "What safety measure should be taken when using welding equipment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wearing standard glasses only"
+        },
+        {
+          "label": "B",
+          "text": "Ensuring proper ventilation in the work area"
+        },
+        {
+          "label": "C",
+          "text": "Using water to cool the equipment"
+        },
+        {
+          "label": "D",
+          "text": "Working without gloves for better control"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 130,
+      "question": "Which of the following is NOT a main type of auto body material used in repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Steel"
+        },
+        {
+          "label": "B",
+          "text": "Aluminum"
+        },
+        {
+          "label": "C",
+          "text": "Plastic"
+        },
+        {
+          "label": "D",
+          "text": "Wood"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 131,
+      "question": "What does 'PDR' stand for in auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paint Detailing Repair"
+        },
+        {
+          "label": "B",
+          "text": "Panel Damage Restoration"
+        },
+        {
+          "label": "C",
+          "text": "Paintless Dent Repair"
+        },
+        {
+          "label": "D",
+          "text": "Patch and Define Restoration"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 132,
+      "question": "What aspect of safety does the Occupational Safety and Health Administration (OSHA) address in body shops?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Environmental protection practices"
+        },
+        {
+          "label": "B",
+          "text": "Workplace safety regulations and practices"
+        },
+        {
+          "label": "C",
+          "text": "Insurance coverage for accidents"
+        },
+        {
+          "label": "D",
+          "text": "Employee scheduling and overtime policies"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 133,
+      "question": "What does the diagnostic scan tool assist with in post-collision scenarios?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reading GPS locations"
+        },
+        {
+          "label": "B",
+          "text": "Clearing diagnostic trouble codes"
+        },
+        {
+          "label": "C",
+          "text": "Changing tire pressure"
+        },
+        {
+          "label": "D",
+          "text": "Adjusting mirrors"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 134,
+      "question": "What is a primary benefit of proper preparation before painting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Improves the appearance of the paint job"
+        },
+        {
+          "label": "B",
+          "text": "Reduces the amount of paint needed"
+        },
+        {
+          "label": "C",
+          "text": "Allows for easier cleaning of the panel"
+        },
+        {
+          "label": "D",
+          "text": "Enhances the bond and durability of the paint"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "id": 135,
+      "question": "What do technicians use to prevent dust from contaminating fresh paint?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Air compressors"
+        },
+        {
+          "label": "B",
+          "text": "Dust control systems"
+        },
+        {
+          "label": "C",
+          "text": "Sandpaper"
+        },
+        {
+          "label": "D",
+          "text": "Paint thinners"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 136,
+      "question": "What is a common cause of paint blisters?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Poor surface preparation"
+        },
+        {
+          "label": "B",
+          "text": "Moisture trapped under the paint"
+        },
+        {
+          "label": "C",
+          "text": "Using low-quality paint"
+        },
+        {
+          "label": "D",
+          "text": "Excessive heat during application"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 137,
+      "question": "How is a slide hammer used in auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To sand down surfaces"
+        },
+        {
+          "label": "B",
+          "text": "To pull out dents"
+        },
+        {
+          "label": "C",
+          "text": "To measure body dimensions"
+        },
+        {
+          "label": "D",
+          "text": "To apply paint"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 138,
+      "question": "What distinguishes a 'unibody' construction from traditional vehicle designs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The body and frame are separate"
+        },
+        {
+          "label": "B",
+          "text": "It enhances fuel efficiency"
+        },
+        {
+          "label": "C",
+          "text": "The body and frame are integrated into one structure"
+        },
+        {
+          "label": "D",
+          "text": "It allows for easier modification"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 139,
+      "question": "How does a thickness gauge ensure compliance in paint applications?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By adjusting the paint viscosity"
+        },
+        {
+          "label": "B",
+          "text": "By measuring paint thickness against specifications"
+        },
+        {
+          "label": "C",
+          "text": "By regulating air pressure in the booth"
+        },
+        {
+          "label": "D",
+          "text": "By maintaining consistent temperature"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 140,
+      "question": "What feature of a cyclonic paint booth helps improve air quality?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Regular paint mixing"
+        },
+        {
+          "label": "B",
+          "text": "Use of advanced lighting systems"
+        },
+        {
+          "label": "C",
+          "text": "Effective filtration of overspray"
+        },
+        {
+          "label": "D",
+          "text": "Automatic temperature regulation"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 141,
+      "question": "What is the primary purpose of spot welding in auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To bond metal sheets at overlapping points"
+        },
+        {
+          "label": "B",
+          "text": "To create decorative patterns in metal"
+        },
+        {
+          "label": "C",
+          "text": "To reshape metal panels"
+        },
+        {
+          "label": "D",
+          "text": "To clean off rust from metal surfaces"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 142,
+      "question": "What is a 'spot repair' in auto body work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A full panel repaint"
+        },
+        {
+          "label": "B",
+          "text": "A technique for localized repair"
+        },
+        {
+          "label": "C",
+          "text": "An approach for repairing large areas"
+        },
+        {
+          "label": "D",
+          "text": "A method for rust removal"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 143,
+      "question": "What is the key characteristic of an effective auto body repair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using the cheapest materials available"
+        },
+        {
+          "label": "B",
+          "text": "Restoring the vehicle to its pre-accident condition"
+        },
+        {
+          "label": "C",
+          "text": "Completing the repair as quickly as possible"
+        },
+        {
+          "label": "D",
+          "text": "Focusing only on the exterior appearance"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 144,
+      "question": "When assessing a vehicle for repairs, what is a common reason for panel replacement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Color fading"
+        },
+        {
+          "label": "B",
+          "text": "Structural compromise due to extensive damage"
+        },
+        {
+          "label": "C",
+          "text": "Scratches on the surface"
+        },
+        {
+          "label": "D",
+          "text": "Replacement parts not being available"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 145,
+      "question": "Why is it crucial to control dust in the working environment during repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To ensure a clean finish and reduce contamination during paint application"
+        },
+        {
+          "label": "B",
+          "text": "To enhance air flow for technicians"
+        },
+        {
+          "label": "C",
+          "text": "To create a safer working atmosphere"
+        },
+        {
+          "label": "D",
+          "text": "To prevent equipment malfunction"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "id": 146,
+      "question": "How often should tools and equipment be maintained in a body shop?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Once a year"
+        },
+        {
+          "label": "B",
+          "text": "Regularly, following the manufacturer's guidelines"
+        },
+        {
+          "label": "C",
+          "text": "Only when malfunctioning"
+        },
+        {
+          "label": "D",
+          "text": "Every month"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 147,
+      "question": "What is the primary function of a thickness gauge in paint applications?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To measure the temperature of the paint"
+        },
+        {
+          "label": "B",
+          "text": "To measure the thickness of paint layers"
+        },
+        {
+          "label": "C",
+          "text": "To mix paint components effectively"
+        },
+        {
+          "label": "D",
+          "text": "To assess color accuracy"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 148,
+      "question": "How can dulled paint surfaces be effectively restored?",
+      "options": [
+        {
+          "label": "A",
+          "text": "With sanding and priming"
+        },
+        {
+          "label": "B",
+          "text": "With polishing compounds or rubbing compounds"
+        },
+        {
+          "label": "C",
+          "text": "With chemical strippers"
+        },
+        {
+          "label": "D",
+          "text": "With wax and sealant"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 149,
+      "question": "Why is it crucial to document damages before repairs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To evaluate technician performance"
+        },
+        {
+          "label": "B",
+          "text": "To provide a record for insurance claims"
+        },
+        {
+          "label": "C",
+          "text": "To increase repair speed"
+        },
+        {
+          "label": "D",
+          "text": "To ensure customer satisfaction"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "id": 150,
+      "question": "What can happen if paint is applied too thickly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It may increase vehicle value"
+        },
+        {
+          "label": "B",
+          "text": "It may run, sag, or not cure properly"
+        },
+        {
+          "label": "C",
+          "text": "It may enhance glossy finish"
+        },
+        {
+          "label": "D",
+          "text": "It may bond better with the surface"
+        }
+      ],
+      "correctAnswer": "B"
+    }
+  ],
   "module3": []
 }
